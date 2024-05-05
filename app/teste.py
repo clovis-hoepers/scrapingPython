@@ -17,8 +17,6 @@ urls = [
 ]
 
 # Definir uma função para extrair a informação entre "www." e ".com" usando regex
-
-
 def extrair_url(url):
     padrao = re.compile(r'https?://(.*?)/')
     resultado = padrao.search(url)
@@ -26,7 +24,6 @@ def extrair_url(url):
         return resultado.group(1)
     else:
         return None
-
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
@@ -37,37 +34,18 @@ for url in urls:
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, 'html.parser')
 
+    # Encontrando o script que contém as informações
+    script = soup.find('script', type='application/ld+json')
+
     site = extrair_url(url)
     name = ""
     price = ""
 
-    # Procurando todas as metatags relevantes
-    for meta_tag in soup.find_all('meta'):
-        if 'property' in meta_tag.attrs and 'content' in meta_tag.attrs:
-            if 'og:title' in meta_tag['property']:
-                name = meta_tag['content']
-            elif 'product:price:amount' in meta_tag['property']:
-                price = meta_tag['content']
-
-    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar no script JSON-LD
-    if not name or not price:
-        script = soup.find('script', type='application/ld+json')
-        if script and hasattr(script, 'string'):
-            script_data = json.loads(script.string)
-            if not name:
-                name = script_data.get('name', '')
-            if not price and 'offers' in script_data:
-                price = script_data['offers'].get('price', '')
-
-    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar na página HTML
-    if not name or not price:
-        name_tag = soup.find('h1')
-        if name_tag:
-            name = name_tag.text.strip()
-
-        price_tag = soup.find('span', class_='price')
-        if price_tag:
-            price = price_tag.text.strip()
+    # Verificando se encontrou o script com as informações
+        # Buscando nome no meta
+        meta_name = soup.find('meta', {'property': 'og:title'})
+        if meta_name:
+            name = meta_name['content']
 
     print("Site:", site)
     print("Nome:", name)
