@@ -2,23 +2,20 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import os
+import pandas as pd
 
-# URLs da página
-urls = [
-    "https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-4070-super-ventus-3x-oc-12gb-gddr6x-192-bit-912-v513-643",
-    "https://www.terabyteshop.com.br/produto/28528/placa-de-video-msi-nvidia-geforce-rtx-4070-super-ventus-3x-oc-12gb-gddr6x-dlss-ray-tracing-912-v513-643",
-    "https://www.kabum.com.br/produto/520534/placa-de-video-rtx-4070-super-msi-12g-ventus-3x-oc-nvidia-geforce-12gb-gddr6x-dlss-ray-tracing",
-    "https://www.bioageprofissional.com.br/protocolo-limpeza-de-pele-bio-clean-system",
-    "https://www.lojaadcos.com.br/protetor-solar-tonalizante-fps50-pocompacto-acido-hialuronico/p",
-    "https://www.ellementtistore.com.br/produto/espuma-hydra-repair-gest-care/4928107",
-    "https://www.tulipia.com.br/floraty-creme-emoliente-cravos/p",
-    "https://www.lakma.com.br/home-care/mascara-clareadora-10g",
-    "https://www.extratosdaterra.com.br/fotoprotetor-facial-fps-30---50-g/p"
-]
+# Caminho do arquivo TXT
+diretorio_atual = os.getcwd()
+caminho_arquivo = os.path.join(diretorio_atual, 'app/urls.txt')
+
+# Carregar o conteúdo do arquivo em um DataFrame do Pandas
+df = pd.read_csv(caminho_arquivo, header=None, names=['URL'])
+
+# Extrair as URLs como uma lista
+urls = df['URL'].tolist()
 
 # Definir uma função para extrair a informação entre "www." e ".com" usando regex
-
-
 def extrair_url(url):
     padrao = re.compile(r'https?://(.*?)/')
     resultado = padrao.search(url)
@@ -35,11 +32,14 @@ headers = {
 for url in urls:
     # Fazendo o request para a página
     response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        print("Erro ao fazer o request para a página:", url)
+        continue
     soup = BeautifulSoup(response.text, 'html.parser')
 
     site = extrair_url(url)
-    name = ""
-    price = ""
+    name = None
+    price = None
 
     # Procurando todas as metatags relevantes
     for meta_tag in soup.find_all('meta'):
@@ -49,25 +49,42 @@ for url in urls:
             elif 'product:price:amount' in meta_tag['property']:
                 price = meta_tag['content']
 
-    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar no script JSON-LD
-    if not name or not price:
-        script = soup.find('script', type='application/ld+json')
-        if script and hasattr(script, 'string'):
-            script_data = json.loads(script.string)
-            if not name:
-                name = script_data.get('name', '')
-            if not price and 'offers' in script_data:
-                price = script_data['offers'].get('price', '')
-
     # Se o nome ou o preço ainda estiverem vazios, tenta encontrar na página HTML
     if not name or not price:
         name_tag = soup.find('h1')
         if name_tag:
             name = name_tag.text.strip()
 
-        price_tag = soup.find('span', class_='price')
+        price_tag = soup.find('span', class_='preco')
         if price_tag:
             price = price_tag.text.strip()
+
+    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar na página HTML
+    if (not name or not price) and hasattr(soup.find('script',string=re.compile(r'"priceSell":')),'string'):
+        name_tag = soup.find('h1')
+        if name_tag:
+            name = name_tag.text.strip()
+
+        price_tag = soup.find('script',
+                              string=re.compile(r'"priceSell":'))
+        price_tag = (price_tag.string)
+        price_tag = price_tag.replace('dataLayer = ', '')
+        price_tag = json.loads(price_tag)
+        if price_tag:
+            price = price_tag[0]['priceSell']
+
+    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar no script JSON-LD
+    if not name or not price:
+        script = soup.find('script', type='application/ld+json',
+                           string=re.compile(r'"price":'))
+        script_data = json.loads(script.string)
+        if not price:
+            price = script_data['offers']['price']
+        if not name:
+            script = soup.find('script', type='application/ld+json',
+                               string=re.compile(r'"name":'))
+            script_data = json.loads(script.string)
+            name = script_data['name']
 
     print("Site:", site)
     print("Nome:", name)
