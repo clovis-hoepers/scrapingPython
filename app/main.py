@@ -4,12 +4,18 @@ import json
 import re
 
 # URL da página
-urls = [
-    "https://www.terabyteshop.com.br/produto/28528/placa-de-video-msi-nvidia-geforce-rtx-4070-super-ventus-3x-oc-12gb-gddr6x-dlss-ray-tracing-912-v513-643",
-    "https://www.kabum.com.br/produto/520534/placa-de-video-rtx-4070-super-msi-12g-ventus-3x-oc-nvidia-geforce-12gb-gddr6x-dlss-ray-tracing",
-]
+urls = ["https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-4070-super-ventus-3x-oc-12gb-gddr6x-192-bit-912-v513-643",
+        "https://www.terabyteshop.com.br/produto/28528/placa-de-video-msi-nvidia-geforce-rtx-4070-super-ventus-3x-oc-12gb-gddr6x-dlss-ray-tracing-912-v513-643",
+        "https://www.kabum.com.br/produto/520534/placa-de-video-rtx-4070-super-msi-12g-ventus-3x-oc-nvidia-geforce-12gb-gddr6x-dlss-ray-tracing",
+        "https://www.bioageprofissional.com.br/protocolo-limpeza-de-pele-bio-clean-system",
+        "https://www.lojaadcos.com.br/protetor-solar-tonalizante-fps50-pocompacto-acido-hialuronico/p"
+        "https://www.ellementtistore.com.br/produto/espuma-hydra-repair-gest-care/4928107",
+        "https://tulipia.com.br/floraty-creme-emoliente-cravos/p",
+        "https://www.lakma.com.br/home-care/mascara-clareadora-10g"]
 
 # Definir uma função para extrair a informação entre "www." e ".com" usando regex
+
+
 def extract_info(url):
     match = re.search(r'www\.(.*?)\.com', url)
     if match:
@@ -17,24 +23,31 @@ def extract_info(url):
     else:
         return None
 
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
 
 for url in urls:
     # Fazendo o request para a página
-   response = requests.get(url, headers=headers)
-   soup = BeautifulSoup(response.text, 'html.parser')
-   
-   # Encontrando o script que contém as informações
-   script = soup.find('script', type='application/ld+json')
-   data = json.loads(script.string)
-   
-   # Extraindo o valor do preço
-   company = extract_info(url)
-   price = data['offers']['price']
-   name = data['name']
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-   print("Empresa:", company)
-   print("Nome:", name)
-   print("Preço:", price)
-   
+    # Encontrando o script que contém as informações
+    script = soup.find('script', type='application/ld+json')
+    data = json.loads(script.string)
+    price = script['offers']['price']
+    name = script['name']
+
+    else:
+        price = script['content']
+        script = soup.find('meta', {'property': 'product:price:amount'})
+       
+        script = soup.find('meta', {'property': 'og:title'})
+        name = script['content']
+    #else:
+    #    price = data['offers']['price']
+    #    name = data['name']
+
+    print("Empresa:", company)
+    print("Nome:", name)
+    print("Preço:", price)
