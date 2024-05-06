@@ -58,31 +58,37 @@ for url in urls:
         script_data = json.loads(script.string)
         name = script_data['name']
 
-        if not name and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"name":')), 'string'):
-            script = soup.find(
-                'script', type='application/ld+json', string=re.compile(r'"name":'))
-            script_data = json.loads(script.string)
-            name = script_data['name']
-
-        if not name and hasattr(soup.find('script', string=re.compile(r'"priceSell":')), 'string'):
-            name = soup.find('h1')
+    if not name and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"name":')), 'string'):
+        script = soup.find(
+            'script', type='application/ld+json', string=re.compile(r'"name":'))
+        script_data = json.loads(script.string)
+        name = script_data['name']
+    
+    if not name and hasattr(soup.find('script', string=re.compile(r'"priceSell":')), 'string'):
+        name = soup.find('h1')
 
     if hasattr(soup.find('span', class_='preco'), 'string'):
         price_tag = soup.find('span', class_='preco')
         price = price_tag.text.strip()
 
-    if hasattr(soup.find('script', string=re.compile(r'"priceSell":')), 'string'):
+    if price is None and hasattr(soup.find('script', string=re.compile(r'"priceSell":')), 'string'):
         price_tag = soup.find('script', string=re.compile(r'"priceSell":'))
         price_tag = (price_tag.string)
         price_tag = price_tag.replace('dataLayer = ', '')
         price_tag = json.loads(price_tag)
         price = price_tag[0]['priceSell']
 
-    if name is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"price":')), 'string'):
+    if price is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"price":')), 'string'):
         script = soup.find('script', type='application/ld+json',
                            string=re.compile(r'"price":'))
         script_data = json.loads(script.string)
         price = script_data['offers']['price']
+
+    if price is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"@type": "Product"')), 'string'):
+        script = soup.find('script', type='application/ld+json',
+                           string=re.compile(r'"@type": "Product"'))
+        script_data = json.loads(script.string)
+        name = script_data['price']
 
     print("Site:", site)
     print("Nome:", name)
