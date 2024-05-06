@@ -16,6 +16,8 @@ df = pd.read_csv(caminho_arquivo, header=None, names=['URL'])
 urls = df['URL'].tolist()
 
 # Definir uma função para extrair a informação entre "www." e ".com" usando regex
+
+
 def extrair_url(url):
     padrao = re.compile(r'https?://(.*?)/')
     resultado = padrao.search(url)
@@ -50,41 +52,37 @@ for url in urls:
                 price = meta_tag['content']
 
     # Se o nome ou o preço ainda estiverem vazios, tenta encontrar na página HTML
-    if not name or not price:
-        name_tag = soup.find('h1')
-        if name_tag:
-            name = name_tag.text.strip()
+    if hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"@type": "Product"')), 'string'):
+        script = soup.find('script', type='application/ld+json',
+                           string=re.compile(r'"@type": "Product"'))
+        script_data = json.loads(script.string)
+        name = script_data['name']
 
+        if not name and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"name":')), 'string'):
+            script = soup.find(
+                'script', type='application/ld+json', string=re.compile(r'"name":'))
+            script_data = json.loads(script.string)
+            name = script_data['name']
+
+        if not name and hasattr(soup.find('script', string=re.compile(r'"priceSell":')), 'string'):
+            name = soup.find('h1')
+
+    if hasattr(soup.find('span', class_='preco'), 'string'):
         price_tag = soup.find('span', class_='preco')
-        if price_tag:
-            price = price_tag.text.strip()
+        price = price_tag.text.strip()
 
-    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar na página HTML
-    if (not name or not price) and hasattr(soup.find('script',string=re.compile(r'"priceSell":')),'string'):
-        name_tag = soup.find('h1')
-        if name_tag:
-            name = name_tag.text.strip()
-
-        price_tag = soup.find('script',
-                              string=re.compile(r'"priceSell":'))
+    if hasattr(soup.find('script', string=re.compile(r'"priceSell":')), 'string'):
+        price_tag = soup.find('script', string=re.compile(r'"priceSell":'))
         price_tag = (price_tag.string)
         price_tag = price_tag.replace('dataLayer = ', '')
         price_tag = json.loads(price_tag)
-        if price_tag:
-            price = price_tag[0]['priceSell']
+        price = price_tag[0]['priceSell']
 
-    # Se o nome ou o preço ainda estiverem vazios, tenta encontrar no script JSON-LD
-    if not name or not price:
+    if name is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"price":')), 'string'):
         script = soup.find('script', type='application/ld+json',
                            string=re.compile(r'"price":'))
         script_data = json.loads(script.string)
-        if not price:
-            price = script_data['offers']['price']
-        if not name:
-            script = soup.find('script', type='application/ld+json',
-                               string=re.compile(r'"name":'))
-            script_data = json.loads(script.string)
-            name = script_data['name']
+        price = script_data['offers']['price']
 
     print("Site:", site)
     print("Nome:", name)
