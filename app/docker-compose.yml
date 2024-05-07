@@ -1,15 +1,14 @@
 version: '3'
 services:
-  my_service:
-    build: .
-    volumes:
-      - ./urls.txt:/app/urls
-    environment:
-      - MONGO_URI=mongodb://mongo:27017/
-    depends_on:
-      - mongo
-
-  mongo:
-    image: mongo
+  mongodb:
+    image: mongo:latest
     ports:
-      - "27017:27017"
+      - "localhost:27017"
+    restart: always
+
+  scrapingpython:
+    build: .
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mongodb
