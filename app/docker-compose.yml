@@ -3,7 +3,7 @@ services:
   mongodb:
     image: mongo:latest
     ports:
-      - "localhost:27017"
+      - "27017:27017"
     restart: always
 
   scrapingpython:
