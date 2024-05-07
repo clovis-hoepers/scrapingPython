@@ -3,7 +3,7 @@ services:
   my_service:
     build: .
     volumes:
-      - ./urls.txt:/app/urls.txt
+      - ./urls.txt:/app/urls
     environment:
       - MONGO_URI=mongodb://mongo:27017/
     depends_on:
