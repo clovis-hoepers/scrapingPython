@@ -34,7 +34,7 @@ def extract_site(url):
 def extract_name_and_price(soup):
     name = None
     price = None
-
+#Existem N formas de extrair o nome e o preco de um site, depende da modelagem, insira aqui as outras formas que desejar
     for meta_tag in soup.find_all('meta'):
         if 'property' in meta_tag.attrs and 'content' in meta_tag.attrs:
             if 'og:title' in meta_tag['property']:

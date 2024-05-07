@@ -1,4 +1,4 @@
-# Funcionalidade de Extração e Inserção de Dados em MongoDB
+# Extração de Dados com Python e Inserção em MongoDB
 
 ## Descrição
 
@@ -67,3 +67,5 @@ python main.py
 ```
 
 O código irá executar continuamente, atualizando o banco de dados MongoDB com os dados extraídos de todas as URLs listadas no arquivo `urls.txt`.
+
+Obrigado pela atenção!

@@ -9,7 +9,7 @@ from models.data_operations import load_urls_from_file
 
 
 while True:
-    urls_file_url = "https://drive.google.com/uc?id=1HCgcX3Szr0BKeRSAuG9Hz7qmSWoIQTNs"
+    urls_file_url = "https://drive.google.com/uc?id=1HCgcX3Szr0BKeRSAuG9Hz7qmSWoIQTNs" # URL do seu arquivo, lembre de alterar a permissao para publico
     output_path = "urls.txt"
     download_file(urls_file_url, output_path)
 
