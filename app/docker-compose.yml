@@ -1,17 +1,26 @@
-version: '3'
+version: '3.8'
 services:
-  mongodb:
-    image: mongo:latest
+  mysql:
+    image: mysql:latest
     ports:
-      - "27017:27017"
+      - "3306:3306"
     restart: always
     environment:
-      MONGO_INITDB_ROOT_USERNAME: admin
-      MONGO_INITDB_ROOT_PASSWORD: admin #sim, coloque uma senha forte
+      MYSQL_ROOT_PASSWORD: admin #sim, coloque uma senha forte
+      MYSQL_DATABASE: database_products
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin #sim, coloque uma senha forte
+    networks:
+      - my_network
 
   scrapingpython:
     build: .
     ports:
       - "8080:8080"
     depends_on:
-      - mongodb
+      - mysql
+    networks:
+      - my_network
+
+networks:
+  my_network:

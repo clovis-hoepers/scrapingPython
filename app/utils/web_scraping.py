@@ -68,16 +68,22 @@ def extract_name_and_price(soup):
         price_tag = json.loads(price_tag)
         price = format_price(price_tag[0]['priceSell'])
 
-    if price is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"price":')), 'string'):
-        script = soup.find('script', type='application/ld+json',
-                           string=re.compile(r'"price":'))
-        script_data = json.loads(script.string)
-        price = format_price(script_data['offers']['price'])
-
     if price is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"@type": "Product"')), 'string'):
         script = soup.find('script', type='application/ld+json',
                            string=re.compile(r'"@type": "Product"'))
         script_data = json.loads(script.string)
         price = format_price(script_data['price'])
+
+    if price is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"price":')), 'string'):
+        script = soup.find('script', type='application/ld+json',
+                           string=re.compile(r'"price":'))
+        script_data = json.loads(script.string)
+        price = format_price(script_data['offers']['lowPrice'])
+
+    if price is None and hasattr(soup.find('script', type='application/ld+json', string=re.compile(r'"price":')), 'string'):
+        script = soup.find('script', type='application/ld+json',
+                           string=re.compile(r'"price":'))
+        script_data = json.loads(script.string)
+        price = format_price(script_data['offers']['Price'])
 
     return name, price
