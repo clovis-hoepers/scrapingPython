@@ -1,26 +1,28 @@
-import requests
-from bs4 import BeautifulSoup
 import json
 import re
 from models.price_formatting import format_price
-
+import urllib.request
+from bs4 import BeautifulSoup
 
 def extract_data(url):
-
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
     }
-    response = requests.get(url, headers=headers)
-    if response.status_code != 200:
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req) as response:
+            html = response.read()
+    except Exception as e:
         print("Erro ao fazer o request para a página:", url)
+        print(e)
         return None, None, None
-    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    soup = BeautifulSoup(html, 'html.parser')
 
     site = extract_site(url)
     name, price = extract_name_and_price(soup)
 
     return site, name, price
-
 
 def extract_site(url):
     pattern = re.compile(r'https?://(.*?)/')
@@ -29,7 +31,6 @@ def extract_site(url):
         return result.group(1)
     else:
         return None
-
 
 def extract_name_and_price(soup):
     name = None

@@ -6,12 +6,10 @@ services:
       - "3306:3306"
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: admin #sim, coloque uma senha forte
+      MYSQL_ROOT_PASSWORD: admin
       MYSQL_DATABASE: database_products
       MYSQL_USER: admin
-      MYSQL_PASSWORD: admin #sim, coloque uma senha forte
-    networks:
-      - my_network
+      MYSQL_PASSWORD: admin
 
   scrapingpython:
     build: .
@@ -19,8 +17,4 @@ services:
       - "8080:8080"
     depends_on:
       - mysql
-    networks:
-      - my_network
 
-networks:
-  my_network:
