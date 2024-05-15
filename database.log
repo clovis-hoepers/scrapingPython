@@ -1,0 +1,997 @@
+2024-05-14 23:25:47,592 - INFO - Download completo: urls.txt
+2024-05-14 23:25:48,798 - ERROR - Erro ao criar a base de dados ou tabela. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:25:48,799 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-14 23:25:53,015 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:25:55,137 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:25:57,820 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:25:59,932 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:02,236 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:05,977 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:10,904 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:13,000 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:16,509 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:20,259 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:22,476 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:25,778 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:30,253 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:32,520 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:35,878 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:39,807 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:44,480 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:47,916 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:26:59,679 - INFO - Download completo: urls.txt
+2024-05-14 23:27:02,013 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:04,099 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:08,932 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:10,962 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:14,690 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:16,803 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:18,933 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:21,950 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:24,007 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:27,381 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:30,037 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:32,187 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:34,261 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:36,505 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:38,621 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:40,736 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:42,979 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:45,122 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:48,900 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:51,541 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:54,862 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:27:56,567 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:02,133 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:06,069 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:08,235 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:11,864 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:15,759 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:45,778 - ERROR - Erro ao criar a base de dados ou tabela. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:28:45,780 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-14 23:29:12,845 - ERROR - Erro ao criar a base de dados ou tabela. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:29:12,848 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-14 23:29:35,162 - ERROR - Erro ao criar a base de dados ou tabela. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:32:43,813 - ERROR - Erro ao criar a tabela 'products'. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:32:46,794 - INFO - Download completo: urls.txt
+2024-05-14 23:32:49,422 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:32:51,941 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:32:54,657 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:32:58,028 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:00,314 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:04,235 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:06,904 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:10,482 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:13,935 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:16,083 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:19,932 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:24,222 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:26,322 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:28,397 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:30,530 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:33,158 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:35,213 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:39,412 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:41,568 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:44,836 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:47,680 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:49,723 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:53,203 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:33:57,301 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:00,776 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:02,956 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:09,391 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:11,548 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:14,225 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:17,154 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:19,872 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:26,474 - ERROR - Erro ao criar a tabela 'products'. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:29,146 - INFO - Download completo: urls.txt
+2024-05-14 23:34:30,215 - ERROR - Erro ao criar a tabela 'products'. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:30,215 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-14 23:34:32,324 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:34,440 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:36,590 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:38,741 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:42,413 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:44,510 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:46,543 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:48,234 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:50,406 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:52,529 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:54,690 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:56,789 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:34:58,814 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:00,863 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:02,911 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:05,376 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:07,521 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:09,200 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:11,339 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:15,226 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:17,257 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:21,421 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:23,465 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:25,792 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:28,013 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:30,156 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:33,014 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:35,037 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:37,148 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:39,283 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:43,044 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:45,175 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:35:48,143 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:37:49,665 - ERROR - Erro ao criar a tabela 'products'. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:37:52,502 - INFO - Download completo: urls.txt
+2024-05-14 23:37:53,568 - ERROR - Erro ao criar a tabela 'products'. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:37:53,569 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-14 23:37:55,859 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:37:59,945 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:02,103 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:04,168 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:06,288 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:08,395 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:10,498 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:12,641 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:38:14,764 - ERROR - Erro ao inserir dados no MySQL. Detalhes: (mysql.connector.errors.DatabaseError) 2005 (HY000): Unknown MySQL server host 'mysql' (-2)
+(Background on this error at: https://sqlalche.me/e/20/4xp6)
+2024-05-14 23:43:51,234 - INFO - Tabela 'products' criada com sucesso ou já existente.
+2024-05-14 23:43:54,354 - INFO - Download completo: urls.txt
+2024-05-14 23:43:54,579 - INFO - Tabela 'products' criada com sucesso ou já existente.
+2024-05-14 23:43:54,580 - INFO - Base de dados e tabela criadas com sucesso ou já existentes.
+2024-05-14 23:43:55,628 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Gel Creme FPS 40 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=189
+2024-05-14 23:43:57,594 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Facial com Cor FPS 40 para o Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=139
+2024-05-14 23:43:58,782 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:44:00,426 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Gel Firmante para Pele | Anti-idade | Até 6x* S/ Juros - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=339
+2024-05-14 23:44:03,166 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Peeling de Hortelã Iluminador | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=139
+2024-05-14 23:44:04,748 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Golden Care Creme Hidratante Facial 60G - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=299
+2024-05-14 23:44:06,098 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Creme Anti-aging Corporal Golden Care | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=269
+2024-05-14 23:44:07,660 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Sérum Facial Hidratante | Ácido Hialurônico |  Hyalu 6 - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=296
+2024-05-14 23:44:08,926 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Loção corporal anti-idade com vitamina C | Derma Complex - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=199
+2024-05-14 23:44:11,519 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Base Compacta Duo Cake FPS | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=249
+2024-05-14 23:44:12,426 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Bastão Com Cor Stick FPS 55 | Etrega P/ Todo Brasil | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:13,725 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Condicionador Nutri Ativo 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159
+2024-05-14 23:44:15,013 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Loção Fito Ativa 120Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159
+2024-05-14 23:44:16,376 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Shampoo Bio Ativo D 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159
+2024-05-14 23:44:18,433 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Shampoo Fito Ativo D 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:19,247 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Shampoo Nutri Ativo 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159
+2024-05-14 23:44:21,040 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hidratante Regenerador Antisséptico para Mãos | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=99
+2024-05-14 23:44:23,070 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:44:25,941 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Creme Anti-idade | Nutritivo e Hidratante | 3x S/ Juros* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=189
+2024-05-14 23:44:27,214 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hyalu Aqua Stick | Ácido Hialurônico | Preenche Rugas e Hidrata - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=249
+2024-05-14 23:44:29,412 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Kit Antioxidante para Rotina de Skincare | Até 6x* S/ Juros - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=398
+2024-05-14 23:44:30,445 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Máscara de Diamante | Reduz Rugas e Hidrata a Pele | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=219
+2024-05-14 23:44:31,566 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Máscara De Malaquita | Entrega Para Todo Brasil* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=219
+2024-05-14 23:44:33,447 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Máscara Facial de Maçã Vermelha | ATÉ 6X SEM JUROS* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=219
+2024-05-14 23:44:35,267 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Peeling Iluminador - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=598
+2024-05-14 23:44:38,070 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor solar Antioleosidade Aqua Fluid FPS 50 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=129
+2024-05-14 23:44:40,178 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Fluid Mineral FPS 50 | Adcos Dermocosméticos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:41,329 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Labial FPS 50 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=99
+2024-05-14 23:44:43,787 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar FPS 99 Fluid: Pele Sensível no Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=155
+2024-05-14 23:44:44,997 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Tonalizante FPS 50 Ácido Hialurônico | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:46,820 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Com Cor FPS 70 Essencial nesse Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=149
+2024-05-14 23:44:49,420 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick Base FPS 80: Ideal para o Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:50,592 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick Incolor FPS 70 para o Verão |  Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:52,045 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick Mineral FPS 50 Translucido | Adcos Dermocosméticos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=195
+2024-05-14 23:44:55,053 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick FPS 50: Ultraleve para o Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169
+2024-05-14 23:44:57,956 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Em Pó Com Ácido Hialurônico FPS 50 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=249
+2024-05-14 23:45:01,041 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:04,925 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Refil Protetor Solar em Pó FPS 50 Ácido Hialurônico | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=179
+2024-05-14 23:45:07,533 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Loção Protetor Solar FPS 30 Corporal Bio Bronze | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=149
+2024-05-14 23:45:09,985 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar bronzeador Bio Bronze FPS 30 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159
+2024-05-14 23:45:12,835 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Vitamina c e Ácido Hialurônico: Tratamento Facial | ATÉ 6X* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=537
+2024-05-14 23:45:15,488 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Facial Intensivo de Vitamina C para Pele Normal  a Seca - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=637
+2024-05-14 23:45:18,060 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Iluminador e Anti-Idade Facial e Corporal - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=368
+2024-05-14 23:45:21,022 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Iluminador e Antirrugas para Face e Olhos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=428
+2024-05-14 23:45:22,704 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Kit de Tratamento Facial Vitamina c | Antirrugas | Até 6x* |  Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=558
+2024-05-14 23:45:24,414 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Vitamina C + Ácido Hialurônico para Pele Oleosa - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=598
+2024-05-14 23:45:27,125 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Kit Vitamina c para Pele Oleosa e Mista | Até 6x S/ Juros - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=558
+2024-05-14 23:45:30,420 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Facial Intensivo de Vitamina C para Pele Oleosa | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=637
+2024-05-14 23:45:33,379 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Sérum anti-idade Vitamina C 15 + Ácido Hialurônico | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=199
+2024-05-14 23:45:35,746 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Vitamina C 100 Pura - Anti-idade | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=289
+2024-05-14 23:45:36,459 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:37,075 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:38,261 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:38,955 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:39,597 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:40,241 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:40,923 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:41,570 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:42,191 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:42,866 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:43,498 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:44,151 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:44,880 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:45,539 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:46,220 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:46,836 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:47,465 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:48,157 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:48,790 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:49,431 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:50,119 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:50,769 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:51,558 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:52,202 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:52,868 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:53,536 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:54,191 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:54,903 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:55,538 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:56,171 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:56,844 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:57,487 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:58,142 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:58,869 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:45:59,533 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:00,155 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:00,800 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:01,450 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:02,091 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:02,721 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:03,386 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:04,153 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:04,775 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:05,449 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:05,932 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:06,400 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:07,121 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:07,629 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:08,075 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:08,602 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:09,056 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:09,516 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:10,022 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:10,481 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:10,941 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:11,450 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:11,901 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:12,369 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:12,873 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:13,350 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:13,827 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:14,347 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:14,816 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:15,239 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:16,003 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:16,548 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:17,083 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:17,573 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:18,145 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:18,682 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:19,128 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:19,601 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:20,113 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:20,556 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:21,011 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:21,532 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:21,971 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:22,419 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:22,878 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:23,427 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:23,897 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:24,326 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:24,820 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:25,271 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:25,705 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:26,217 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:26,650 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:27,285 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:27,765 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:28,243 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:28,753 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:29,280 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:29,780 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:30,253 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:30,777 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:31,331 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:31,744 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:32,221 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:32,682 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:33,174 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:33,706 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:34,168 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:34,696 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:35,191 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:35,808 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:36,254 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:36,744 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:37,255 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:37,715 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:38,249 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:38,743 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:39,195 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:39,710 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:40,160 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:40,605 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:41,113 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:41,594 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:42,078 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:42,617 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:43,030 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:43,482 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:44,026 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:44,684 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:45,279 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:45,808 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:46,331 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:46,919 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:47,358 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:47,917 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:48,439 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:49,004 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:49,777 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:50,291 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:50,786 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:51,265 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:51,731 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:52,208 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:52,634 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:53,062 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:53,581 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:54,022 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:54,420 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:54,989 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:55,410 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:55,890 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:56,524 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:57,011 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:57,612 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:58,292 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:58,787 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:59,223 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:46:59,732 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:00,286 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:00,741 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:01,314 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:01,735 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:02,164 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:02,663 - ERROR - Erro ao inserir dados no MySQL. Detalhes: 1265 (01000): Data truncated for column 'price' at row 1
+2024-05-14 23:47:56,979 - INFO - Tabela 'products' criada com sucesso ou já existente.
+2024-05-14 23:48:00,169 - INFO - Download completo: urls.txt
+2024-05-14 23:48:00,351 - INFO - Tabela 'products' criada com sucesso ou já existente.
+2024-05-14 23:48:00,353 - INFO - Base de dados e tabela criadas com sucesso ou já existentes.
+2024-05-14 23:48:01,495 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/adcos-filtro-solar-fps-40-120g/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:02,507 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/adcos-fltro-solar-tonalizante-fps-40-50-g/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:04,552 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/bio-bronze-natural-glow/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:06,366 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/cell-complex-gel-creme-intensivo-50-g/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:07,517 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/clean-solution-peeling-de-hortela/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:08,757 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/creme-nutritivo-e-hidratante-facial-golden-care-55-g/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:10,300 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/creme-revitalizante-corporal-golden-care-240-g/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:11,630 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/dense-filler-3d/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:13,578 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/derma-complex-antiaging-corporal/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:15,929 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/filtro-solar-duo-cake-fps-50-10-g/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:48:17,161 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/filtro-tonalizante-base-stick-fps-55/p. Detalhes: type str doesn't define __round__ method
+2024-05-14 23:50:31,392 - INFO - Tabela 'products' criada com sucesso ou já existente.
+2024-05-14 23:50:34,245 - INFO - Download completo: urls.txt
+2024-05-14 23:50:34,436 - INFO - Tabela 'products' criada com sucesso ou já existente.
+2024-05-14 23:50:34,440 - INFO - Base de dados e tabela criadas com sucesso ou já existentes.
+2024-05-14 23:50:35,693 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Gel Creme FPS 40 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=189.0
+2024-05-14 23:50:38,499 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Facial com Cor FPS 40 para o Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=139.0
+2024-05-14 23:50:39,566 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/bio-bronze-natural-glow/p. Detalhes: could not convert string to float: 'Bio Bronze Natural Glow Bronzeado Natural | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos'
+2024-05-14 23:50:40,728 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Gel Firmante para Pele | Anti-idade | Até 6x* S/ Juros - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=339.0
+2024-05-14 23:50:41,998 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Peeling de Hortelã Iluminador | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=139.0
+2024-05-14 23:50:43,406 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Golden Care Creme Hidratante Facial 60G - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=299.0
+2024-05-14 23:50:44,583 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Creme Anti-aging Corporal Golden Care | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=269.0
+2024-05-14 23:50:45,787 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Sérum Facial Hidratante | Ácido Hialurônico |  Hyalu 6 - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=296.0
+2024-05-14 23:50:47,107 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Loção corporal anti-idade com vitamina C | Derma Complex - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=199.0
+2024-05-14 23:50:48,462 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Base Compacta Duo Cake FPS | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=249.0
+2024-05-14 23:50:50,843 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Bastão Com Cor Stick FPS 55 | Etrega P/ Todo Brasil | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:50:52,208 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Condicionador Nutri Ativo 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159.0
+2024-05-14 23:50:55,064 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Loção Fito Ativa 120Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159.0
+2024-05-14 23:51:02,920 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Shampoo Bio Ativo D 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159.0
+2024-05-14 23:51:03,849 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Shampoo Fito Ativo D 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:51:05,843 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hair Solution Shampoo Nutri Ativo 300Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159.0
+2024-05-14 23:51:07,872 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hidratante Regenerador Antisséptico para Mãos | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=99.0
+2024-05-14 23:51:09,776 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/hidrat-solution-leite-hidratante-fps-20/p. Detalhes: could not convert string to float: 'Hidrat Solution Leite Hidratante Fps20 480Ml - Dermocosméticos para o Rosto e Corpo | Loja Adcos'
+2024-05-14 23:51:11,553 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Creme Anti-idade | Nutritivo e Hidratante | 3x S/ Juros* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=189.0
+2024-05-14 23:51:12,960 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Hyalu Aqua Stick | Ácido Hialurônico | Preenche Rugas e Hidrata - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=249.0
+2024-05-14 23:51:16,349 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Kit Antioxidante para Rotina de Skincare | Até 6x* S/ Juros - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=398.0
+2024-05-14 23:51:18,948 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Máscara de Diamante | Reduz Rugas e Hidrata a Pele | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=219.0
+2024-05-14 23:51:21,358 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Máscara De Malaquita | Entrega Para Todo Brasil* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=219.0
+2024-05-14 23:51:24,612 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Máscara Facial de Maçã Vermelha | ATÉ 6X SEM JUROS* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=219.0
+2024-05-14 23:51:25,843 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Peeling Iluminador - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=598.0
+2024-05-14 23:51:27,713 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor solar Antioleosidade Aqua Fluid FPS 50 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=129.0
+2024-05-14 23:51:29,041 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Fluid Mineral FPS 50 | Adcos Dermocosméticos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:51:30,332 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Labial FPS 50 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=99.0
+2024-05-14 23:51:31,570 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar FPS 99 Fluid: Pele Sensível no Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=155.0
+2024-05-14 23:51:35,665 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Tonalizante FPS 50 Ácido Hialurônico | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:51:37,040 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Com Cor FPS 70 Essencial nesse Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=149.0
+2024-05-14 23:51:39,227 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick Base FPS 80: Ideal para o Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:51:40,039 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick Incolor FPS 70 para o Verão |  Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:51:41,297 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick Mineral FPS 50 Translucido | Adcos Dermocosméticos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=195.0
+2024-05-14 23:51:43,178 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Stick FPS 50: Ultraleve para o Verão | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=169.0
+2024-05-14 23:51:45,595 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar Em Pó Com Ácido Hialurônico FPS 50 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=249.0
+2024-05-14 23:51:49,507 - ERROR - Erro ao processar URL: https://www.lojaadcos.com.br/reduxcel-power-anticelulite/p. Detalhes: could not convert string to float: 'Sérum Anticelulite e Firmador Reduxcel Power | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos'
+2024-05-14 23:51:52,810 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Refil Protetor Solar em Pó FPS 50 Ácido Hialurônico | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=179.0
+2024-05-14 23:51:56,694 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Loção Protetor Solar FPS 30 Corporal Bio Bronze | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=149.0
+2024-05-14 23:51:59,549 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Protetor Solar bronzeador Bio Bronze FPS 30 | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=159.0
+2024-05-14 23:52:00,846 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Vitamina c e Ácido Hialurônico: Tratamento Facial | ATÉ 6X* | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=537.0
+2024-05-14 23:52:02,713 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Facial Intensivo de Vitamina C para Pele Normal  a Seca - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=637.0
+2024-05-14 23:52:06,818 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Iluminador e Anti-Idade Facial e Corporal - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=368.0
+2024-05-14 23:52:09,801 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Iluminador e Antirrugas para Face e Olhos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=428.0
+2024-05-14 23:52:11,425 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Kit de Tratamento Facial Vitamina c | Antirrugas | Até 6x* |  Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=558.0
+2024-05-14 23:52:15,487 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Vitamina C + Ácido Hialurônico para Pele Oleosa - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=598.0
+2024-05-14 23:52:18,837 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Kit Vitamina c para Pele Oleosa e Mista | Até 6x S/ Juros - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=558.0
+2024-05-14 23:52:22,680 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Tratamento Facial Intensivo de Vitamina C para Pele Oleosa | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=637.0
+2024-05-14 23:52:26,728 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Sérum anti-idade Vitamina C 15 + Ácido Hialurônico | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=199.0
+2024-05-14 23:52:28,622 - INFO - Dados inseridos no MySQL: site=www.lojaadcos.com.br, name=Vitamina C 100 Pura - Anti-idade | Adcos - Dermocosméticos para o Rosto e Corpo | Loja Adcos, price=289.0
+2024-05-14 23:52:29,386 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/acqua-puri-black-diamond/4513473. Detalhes: could not convert string to float: 'Acqua Puri Black Diamond'
+2024-05-14 23:52:30,096 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/acqua-tonic-renov-time-reverse-id/4935600. Detalhes: could not convert string to float: 'Acqua Tônic Renov Time Reverse iD'
+2024-05-14 23:52:30,831 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/agua-bifasica-hydra-protect-gest-care/4931716. Detalhes: could not convert string to float: 'Água Bifásica Hydra Protect Gest Care'
+2024-05-14 23:52:32,066 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/agua-dermatologica-hidratante-superfusion-vaccine-basic/5432876. Detalhes: could not convert string to float: 'Água Dermatológica Hidratante Superfusion Vaccine Basic'
+2024-05-14 23:52:32,715 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/agua-micelar-skin-drink-multi-action/4513453. Detalhes: could not convert string to float: 'Água Micelar Skin Drink Multi-Action'
+2024-05-14 23:52:33,338 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/agua-sensi-skin-superfusion-sos/4513485. Detalhes: could not convert string to float: 'Água Sensi Skin Superfusion S.O.S.'
+2024-05-14 23:52:34,004 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/agua-termal-secative-skin-control/4513497. Detalhes: could not convert string to float: 'Água Termal Secative Skin Control'
+2024-05-14 23:52:34,784 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/anti-oleosidade--acne/5223488. Detalhes: could not convert string to float: 'Anti Oleosidade & Acne'
+2024-05-14 23:52:35,451 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/aqua-energizante-100ml/4513324. Detalhes: could not convert string to float: 'Aqua Energizante 100ml'
+2024-05-14 23:52:36,113 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/aqua-energizante-aroma-therapy/4513323. Detalhes: could not convert string to float: 'Aqua Energizante 30ml'
+2024-05-14 23:52:36,831 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/aqua-relaxante-30ml/4513325. Detalhes: could not convert string to float: 'Aqua Relaxante 30ml'
+2024-05-14 23:52:37,510 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/aqua-relaxante-aroma-therapy/4513326. Detalhes: could not convert string to float: 'Aqua Relaxante 100ml'
+2024-05-14 23:52:38,265 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/hands-cream-essence-therapy/4935695. Detalhes: could not convert string to float: 'Hands Cream Essence Therapy'
+2024-05-14 23:52:38,944 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/revitaclear-derma-white-hands/4513689. Detalhes: could not convert string to float: 'RevitaClear Derma White Hands'
+2024-05-14 23:52:39,596 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/serum-pro-cilios--sobrancelhas-colorceuticals/4933160. Detalhes: could not convert string to float: 'Sérum Pro Cílios & Sobrancelhas Colorceuticals'
+2024-05-14 23:52:40,226 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/hands--feet-exfol-essence-therapy/4935703. Detalhes: could not convert string to float: 'Hands & Feet Exfol Essence Therapy'
+2024-05-14 23:52:40,868 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/feet-cream-essence-therapy/4935701. Detalhes: could not convert string to float: 'Feet Cream Essence Therapy'
+2024-05-14 23:52:41,565 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/multi-active-emulti-active-eye-time-reverse-idye-15g/4935620. Detalhes: could not convert string to float: 'Multi Active Eye Time Reverse iD'
+2024-05-14 23:52:42,215 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/serum-lumine-e-derma-white/4513680. Detalhes: could not convert string to float: 'Sérum Lumine E Derma White'
+2024-05-14 23:52:42,950 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/duo-lip-lift--filler-system/4513650. Detalhes: could not convert string to float: 'Duo Lip'
+2024-05-14 23:52:43,585 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/nano-shape-body-contour/4514410. Detalhes: could not convert string to float: 'Nano Shape Body Contour'
+2024-05-14 23:52:44,285 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/nano-cell-body-contour/4514442. Detalhes: could not convert string to float: 'Nano Cell Body Contour'
+2024-05-14 23:52:44,960 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/fluido-de-limpeza-naked-beauty/4515035. Detalhes: could not convert string to float: 'Fluido de Limpeza Naked Beauty'
+2024-05-14 23:52:45,654 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/manteiga-super-detox--mask-exfol-detox-body-d-tox/5020175. Detalhes: could not convert string to float: 'Manteiga Super Detox & Mask Exfol Detox Body D-TOX'
+2024-05-14 23:52:46,279 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/manteiga-hydra-fresh-body-hydra/4514943. Detalhes: could not convert string to float: 'Manteiga Hydra Fresh Body Hydra'
+2024-05-14 23:52:46,983 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/manteiga-corporal-phytormon-body-time-reverse-id/5380984. Detalhes: could not convert string to float: 'Phytormon Body'
+2024-05-14 23:52:47,610 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/lumin-gel-corporal-naked-beauty/4515127. Detalhes: could not convert string to float: 'Lumin Gel Corporal Naked Beauty'
+2024-05-14 23:52:48,340 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/mask-exfol-detox-body-d-tox/4515018. Detalhes: could not convert string to float: 'Mask Exfol Detox Body D-TOX'
+2024-05-14 23:52:49,057 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/monocreatine-108gr/5557812. Detalhes: could not convert string to float: 'Monocreatine 108gr'
+2024-05-14 23:52:49,738 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/oleo-hydra-repair-gest-care/4932267. Detalhes: could not convert string to float: 'Óleo Hydra Repair Gest Care'
+2024-05-14 23:52:50,429 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/redensify-gel-corporal-naked-beauty/4515125. Detalhes: could not convert string to float: 'Redensify Gel Corporal Naked Beauty'
+2024-05-14 23:52:51,066 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/sabonete-aloe-vera-250ml/4935729. Detalhes: could not convert string to float: 'Sabonete Aloe Vera 250ml'
+2024-05-14 23:52:51,763 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/serum-folliskin-naked-beauty/4515128. Detalhes: could not convert string to float: 'Sérum Folliskin Naked Beauty'
+2024-05-14 23:52:52,444 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/shower-hydra-extreme/4514931. Detalhes: could not convert string to float: 'Shower Hydra Extreme'
+2024-05-14 23:52:53,133 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/detoxificacao-facial/5223507. Detalhes: could not convert string to float: 'Detoxificação Facial'
+2024-05-14 23:52:53,772 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/alcool-em-gel-70-60ml/4935717. Detalhes: could not convert string to float: 'Álcool em Gel 70% 60ml'
+2024-05-14 23:52:54,423 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/d-stress-oil-mind-skin/5134862. Detalhes: could not convert string to float: 'D-Stress Oil 120ml'
+2024-05-14 23:52:55,107 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/duocollagen-450g/5557809. Detalhes: could not convert string to float: 'Duocollagen 450g'
+2024-05-14 23:52:55,840 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/gel-soft-skin-antiox-gest-care/4932275. Detalhes: could not convert string to float: 'Gel Soft Skin Antiox Gest Care'
+2024-05-14 23:52:56,523 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/higienizador-facial--corporal-superfusion-vaccine-basic/5432875. Detalhes: could not convert string to float: 'Higienizador Facial & Corporal Superfusion Vaccine Basic'
+2024-05-14 23:52:57,163 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/locao-hydra-extreme-body-hydra/4514932. Detalhes: could not convert string to float: 'Loção Hydra Extreme Body Hydra'
+2024-05-14 23:52:57,952 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/locao-hydra-repair-gest-care/4932271. Detalhes: could not convert string to float: 'Loção Hydra Repair Gest Care'
+2024-05-14 23:52:58,620 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/locao-lift-intense-body-lift/4514510. Detalhes: could not convert string to float: 'Loção Lift Intense Body Lift'
+2024-05-14 23:52:59,271 - ERROR - Erro ao processar URL: https://www.ellementtistore.com.br/produto/locao-sos-body-drain/4514914. Detalhes: could not convert string to float: 'Loção S.O.S. Body Drain'
+2024-05-14 23:53:00,086 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/combo-3-clareador-intimo-la-vie-rose-120ml. Detalhes: could not convert string to float: 'Combo 3 Clareador Intimo La vie Rose 120ml'
+2024-05-14 23:53:00,900 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/combo-3-vitamina-c-50ml. Detalhes: could not convert string to float: 'Combo 3 Vitamina C 50ml'
+2024-05-14 23:53:01,760 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/dolce-lips-dolce-peel-labial. Detalhes: could not convert string to float: 'Dolce lips + Dolce peel labial'
+2024-05-14 23:53:02,520 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-acne-off-kit-ozonio-facial. Detalhes: could not convert string to float: 'kit acne off + kit ozonio facial'
+2024-05-14 23:53:03,280 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-01. Detalhes: could not convert string to float: 'Kit Home Care cuidados diários'
+2024-05-14 23:53:04,093 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-02. Detalhes: could not convert string to float: 'Kit Home Care Hidratação - 02'
+2024-05-14 23:53:04,847 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-03. Detalhes: could not convert string to float: 'Kit Home Care Rejuvenescimento'
+2024-05-14 23:53:05,598 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-04. Detalhes: could not convert string to float: 'Kit Home Care Clareamento - 04'
+2024-05-14 23:53:06,430 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-05. Detalhes: could not convert string to float: 'Kit Home Care secativo- 05'
+2024-05-14 23:53:07,143 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-07. Detalhes: could not convert string to float: 'Kit Home Care clareamento intimo- 07'
+2024-05-14 23:53:07,873 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-08. Detalhes: could not convert string to float: 'Kit Home Care cuidados diarios- 08'
+2024-05-14 23:53:08,631 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-09. Detalhes: could not convert string to float: 'Kit Home Care hidratação profunda- 09'
+2024-05-14 23:53:09,359 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-home-care-11. Detalhes: could not convert string to float: 'Kit Home Care hidratação labios- 11'
+2024-05-14 23:53:10,112 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-limpeza-de-pele-acne-off. Detalhes: could not convert string to float: 'Kit Limpeza de Pele + Acne Off'
+2024-05-14 23:53:10,921 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-limpeza-de-pele-kit-fluidos. Detalhes: could not convert string to float: 'Kit limpeza de pele + kit fluidos'
+2024-05-14 23:53:11,651 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-limpeza-de-pele-kit-joais-raras. Detalhes: could not convert string to float: 'Kit limpeza de pele + kit joais raras'
+2024-05-14 23:53:12,564 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-limpeza-de-pele-kit-terras-do-brasil. Detalhes: could not convert string to float: 'kit limpeza de pele + kit terras do brasil'
+2024-05-14 23:53:13,414 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-limpeza-de-pele-ozonio-facial. Detalhes: could not convert string to float: 'kit limpeza de pele + ozonio facial'
+2024-05-14 23:53:14,110 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-ozonio-facial-kit-ozonio-corporal. Detalhes: could not convert string to float: 'Kit ozonio facial + kit ozonio corporal'
+2024-05-14 23:53:14,830 - ERROR - Erro ao processar URL: https://www.lakma.com.br/combos/kit-venus-termoativado-1kg. Detalhes: could not convert string to float: 'Kit Venus + Termoativado 1kg'
+2024-05-14 23:53:15,797 - ERROR - Erro ao processar URL: https://www.lakma.com.br/corporal-profissional. Detalhes: could not convert string to float: 'Corporal'
+2024-05-14 23:53:16,753 - ERROR - Erro ao processar URL: https://www.lakma.com.br/facial-profissional. Detalhes: could not convert string to float: 'Facial'
+2024-05-14 23:53:17,797 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care. Detalhes: could not convert string to float: 'Home Care'
+2024-05-14 23:53:18,595 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care-corporal. Detalhes: could not convert string to float: 'Home Care Corporal'
+2024-05-14 23:53:20,075 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care-facial. Detalhes: could not convert string to float: 'Home Care Facial'
+2024-05-14 23:53:21,927 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/copia-mascara-clareadora-30g. Detalhes: could not convert string to float: 'Máscara Clareadora 30g'
+2024-05-14 23:53:25,251 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-corporal/bumbum-gel-esfoliante-para-gluteos. Detalhes: could not convert string to float: 'Bumbum Tantan - Gel Esfoliante para Glúteos 250g'
+2024-05-14 23:53:26,842 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-corporal/creme-bumbum-250g-creme-para-gluteos-multifuncional-ultifuncional. Detalhes: could not convert string to float: 'Bumbum Tantan - Creme Para Glúteos Multifuncional 250g'
+2024-05-14 23:53:28,259 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-corporal/creme-de-massagem-firmador-300gr. Detalhes: could not convert string to float: 'Creme de Massagem Firmador - 300gr'
+2024-05-14 23:53:29,543 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-corporal/criogel-150gr. Detalhes: could not convert string to float: 'CRIOGEL - 150gr'
+2024-05-14 23:53:30,806 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-corporal/gel-termoativado-150-gr. Detalhes: could not convert string to float: 'Gel Termoativado - 150 gr'
+2024-05-14 23:53:34,714 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-corporal/la-vie-rose-120ml-clareador-intimo. Detalhes: could not convert string to float: 'La vie Rose 120ml - Clareador Íntimo'
+2024-05-14 23:53:38,216 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/argila-verde-150gr. Detalhes: could not convert string to float: 'Argila verde - 150gr'
+2024-05-14 23:53:39,679 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/combo-5-mascara-clareadora-10g. Detalhes: could not convert string to float: 'COMBO 5 Máscara Clareadora 10g'
+2024-05-14 23:53:40,796 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/dolce-lips-10gr. Detalhes: could not convert string to float: 'Dolce lips - 10gr'
+2024-05-14 23:53:41,943 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/elixir-4-em-1-50ml. Detalhes: could not convert string to float: 'Elixir 4 em 1 - 50ml'
+2024-05-14 23:53:42,883 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/ideal-protect-50gr. Detalhes: could not convert string to float: 'Ideal protect - 50gr'
+2024-05-14 23:53:43,809 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/locao-tonica-200ml. Detalhes: could not convert string to float: 'Loção Tônica - 200ml'
+2024-05-14 23:53:44,762 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/nano-code-50ml. Detalhes: could not convert string to float: 'Nano Code - 50ml'
+2024-05-14 23:53:45,937 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/nano-hydrat-pen-tratamento-de-olheiras-15ml. Detalhes: could not convert string to float: 'Nano Hydrat Pen tratamento de olheiras 15ml'
+2024-05-14 23:53:46,733 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/nanohydrat-roll-15ml. Detalhes: could not convert string to float: 'Nanohydrat Roll 15ml'
+2024-05-14 23:53:47,635 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/peeling-enzimatico-de-roma-60ml. Detalhes: could not convert string to float: 'Peeling Enzimático de Romã - 60ml'
+2024-05-14 23:53:48,504 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/perfect-growth-50ml. Detalhes: could not convert string to float: 'Perfect Growth - 50ml'
+2024-05-14 23:53:49,260 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/pump-acido-hialuronico-50ml. Detalhes: could not convert string to float: 'PUMP Ácido hialuronico 50ml'
+2024-05-14 23:53:50,074 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/pump-ureia-50ml. Detalhes: could not convert string to float: 'PUMP Uréia 50ml'
+2024-05-14 23:53:50,998 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/pump-vitamina-c-35-50ml. Detalhes: could not convert string to float: 'PUMP Vitamina c 40% 50ml'
+2024-05-14 23:53:51,635 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/sabonete-argila-verde-90gr. Detalhes: could not convert string to float: 'Sabonete Argila Verde - 90gr'
+2024-05-14 23:53:52,348 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/serum-hidratante-e-nutritivo-100gr. Detalhes: could not convert string to float: 'Sérum Hidratante e Nutritivo - 100gr'
+2024-05-14 23:53:52,955 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/home-care-facial/serum-hidratante-e-secativo-100gr. Detalhes: could not convert string to float: 'Sérum hidratante e secativo - 100gr'
+2024-05-14 23:53:53,628 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/kit-pumps-50ml-home-care. Detalhes: could not convert string to float: 'Kit Pumps 50ml home care'
+2024-05-14 23:53:54,371 - ERROR - Erro ao processar URL: https://www.lakma.com.br/home-care/mascara-clareadora-10g. Detalhes: could not convert string to float: 'Máscara Clareadora 10g'
+2024-05-14 23:53:55,121 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits. Detalhes: could not convert string to float: 'Kits Lakma'
+2024-05-14 23:53:55,725 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/ampolas. Detalhes: could not convert string to float: 'Ampolas'
+2024-05-14 23:53:56,484 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/colecao-biomimetrica-infusao-biologica-concentrada. Detalhes: could not convert string to float: 'Coleção Biomimétrica - Infusão biológica concentrada'
+2024-05-14 23:53:57,081 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/esbeltea-detox. Detalhes: could not convert string to float: 'Esbeltea Detox'
+2024-05-14 23:53:57,668 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/hydra-nutri-gloss-lips. Detalhes: could not convert string to float: 'Hydra Nutri Gloss Lips'
+2024-05-14 23:53:58,405 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-acne-off-171. Detalhes: could not convert string to float: 'Kit Acne Off'
+2024-05-14 23:53:59,050 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-booster-mitocondrial-esbeltea-900g. Detalhes: could not convert string to float: 'KIT BOOSTER MITOCONDRIAL ESBELTEA - Creme 900g + Fluido 300ml'
+2024-05-14 23:53:59,694 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-bumbum-tantan. Detalhes: could not convert string to float: 'Kit Bumbum Tantan'
+2024-05-14 23:54:00,413 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-fluidos-revitalizantes. Detalhes: could not convert string to float: 'Kit Fluidos Revitalizantes'
+2024-05-14 23:54:00,989 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-freestyle. Detalhes: could not convert string to float: 'Kit Freestyle'
+2024-05-14 23:54:01,644 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-joias-raras. Detalhes: could not convert string to float: 'Kit Jóias Raras'
+2024-05-14 23:54:02,382 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele. Detalhes: could not convert string to float: 'Kit Limpeza de pele'
+2024-05-14 23:54:02,961 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele-e-fluido-passo-4-vitamina-c-50ml. Detalhes: could not convert string to float: 'Kit limpeza de pele + Fluido passo 4 - Vitamina C 50ml'
+2024-05-14 23:54:03,592 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele-eco-skin. Detalhes: could not convert string to float: 'Kit limpeza de pele ECO SKIN'
+2024-05-14 23:54:04,308 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele-fluido-passo-2. Detalhes: could not convert string to float: 'Kit limpeza de pele + Fluido passo 2'
+2024-05-14 23:54:04,872 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele-grande. Detalhes: could not convert string to float: 'Kit Limpeza de pele - Grande'
+2024-05-14 23:54:05,456 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele-mascara-golden-glitter. Detalhes: could not convert string to float: 'Kit limpeza de pele + Máscara Golden Glitter'
+2024-05-14 23:54:06,163 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-limpeza-de-pele-mascara-zen-marine. Detalhes: could not convert string to float: 'Kit Limpeza de Pele + Máscara Zen Marine'
+2024-05-14 23:54:06,741 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-linha-chili. Detalhes: could not convert string to float: 'Kit Chili Pimenta Negra'
+2024-05-14 23:54:07,360 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-peeling-de-cristal-liquido. Detalhes: could not convert string to float: 'Kit peeling de cristal liquido'
+2024-05-14 23:54:08,069 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-terras-do-brasil. Detalhes: could not convert string to float: 'Kit Terras do Brasil'
+2024-05-14 23:54:08,651 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/kit-venus-de-lipoplastia. Detalhes: could not convert string to float: 'Kit Venus de Lipoplastia'
+2024-05-14 23:54:09,218 - ERROR - Erro ao processar URL: https://www.lakma.com.br/kits/linha-ozonio-premium-vitamina-c. Detalhes: could not convert string to float: 'Kit Ozônio Premium'
+2024-05-14 23:54:09,960 - ERROR - Erro ao processar URL: https://www.lakma.com.br/lancamentos-lakma. Detalhes: could not convert string to float: 'Lançamentos Lakma'
+2024-05-14 23:54:10,504 - ERROR - Erro ao processar URL: https://www.lakma.com.br/linha-nutri/capsula-cellulight-30cp. Detalhes: could not convert string to float: 'Capsula Cellulight 30cp'
+2024-05-14 23:54:11,200 - ERROR - Erro ao processar URL: https://www.lakma.com.br/linha-nutri/capsula-drenagem-dos-sonhos-30cp. Detalhes: could not convert string to float: 'Capsula Drenagem dos sonhos: 30cp'
+2024-05-14 23:54:11,919 - ERROR - Erro ao processar URL: https://www.lakma.com.br/linha-nutri/colageno-verisol-120-cps. Detalhes: could not convert string to float: 'Colágeno Verisol  + Acido Hialuronico 120 cps'
+2024-05-14 23:54:12,813 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/. Detalhes: could not convert string to float: 'Lakma Dermocosméticos'
+2024-05-14 23:54:13,633 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=1&palavra_busca=&order=3&loja=1130969&pg=1. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:14,399 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=1&palavra_busca=&order=3&loja=1130969&pg=2. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:15,188 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=1&palavra_busca=&order=3&loja=1130969&pg=3. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:16,037 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=1&palavra_busca=&order=3&loja=1130969&pg=4. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:16,637 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=1&palavra_busca=&order=3&loja=1130969&pg=5. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:17,435 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=19&palavra_busca=&order=3&loja=1130969&pg=1. Detalhes: could not convert string to float: 'combos lakma'
+2024-05-14 23:54:18,156 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=3&palavra_busca=&order=3&loja=1130969&pg=1. Detalhes: could not convert string to float: 'Home Care'
+2024-05-14 23:54:18,890 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?categoria=9&palavra_busca=&order=3&loja=1130969&pg=1. Detalhes: could not convert string to float: 'Kits Lakma'
+2024-05-14 23:54:19,902 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?loja=1130969&amp. Detalhes: could not convert string to float: 'Lakma Dermocosméticos'
+2024-05-14 23:54:20,686 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?palavra_busca=&order=3&categoria=1&loja=1130969&pg=2. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:21,440 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?palavra_busca=&order=3&categoria=19&loja=1130969&pg=2. Detalhes: could not convert string to float: 'combos lakma'
+2024-05-14 23:54:22,117 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?palavra_busca=&order=3&categoria=3&loja=1130969&pg=2. Detalhes: could not convert string to float: 'Home Care'
+2024-05-14 23:54:22,728 - ERROR - Erro ao processar URL: https://www.lakma.com.br/loja/catalogo.php?palavra_busca=&order=3&categoria=9&loja=1130969&pg=2. Detalhes: could not convert string to float: 'Kits Lakma'
+2024-05-14 23:54:23,425 - ERROR - Erro ao processar URL: https://www.lakma.com.br/nutri. Detalhes: could not convert string to float: 'Linha Nutri - Lakma'
+2024-05-14 23:54:24,063 - ERROR - Erro ao processar URL: https://www.lakma.com.br/ofertas/combo-10-vitamina-c-50ml. Detalhes: could not convert string to float: 'Combo 10 vitamina C 50ml'
+2024-05-14 23:54:24,649 - ERROR - Erro ao processar URL: https://www.lakma.com.br/ofertas/combo-3-sabonete-fresh-150ml. Detalhes: could not convert string to float: 'Combo 3 Sabonete Fresh 150ml'
+2024-05-14 23:54:25,342 - ERROR - Erro ao processar URL: https://www.lakma.com.br/ofertas/combo-3-striat-tratamento-de-estrias-100g. Detalhes: could not convert string to float: 'Combo 3 Striat tratamento de estrias 100g'
+2024-05-14 23:54:25,925 - ERROR - Erro ao processar URL: https://www.lakma.com.br/ofertas/shakeit-400g. Detalhes: could not convert string to float: 'ShakeIT 400g'
+2024-05-14 23:54:26,475 - ERROR - Erro ao processar URL: https://www.lakma.com.br/privacidade. Detalhes: could not convert string to float: 'Política de Privacidade'
+2024-05-14 23:54:27,345 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional. Detalhes: could not convert string to float: 'Profissional'
+2024-05-14 23:54:27,937 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/booster-firm-up-ampola-volumizadora. Detalhes: could not convert string to float: 'Booster Firm-Up - Ampola Volumizadora'
+2024-05-14 23:54:28,566 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/body-splash-firm-up-300ml. Detalhes: could not convert string to float: 'Body Splash Firm Up - 300ml'
+2024-05-14 23:54:29,326 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-chili-1kg. Detalhes: could not convert string to float: 'Creme chili 1kg'
+2024-05-14 23:54:29,945 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-de-massagem-10-ativos-1kg. Detalhes: could not convert string to float: 'Creme de Massagem 10 ativos - 900g'
+2024-05-14 23:54:30,537 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-de-massagem-7-ativos-1-kg. Detalhes: could not convert string to float: 'Creme de Massagem 7 ativos - 1 kg'
+2024-05-14 23:54:31,339 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-de-massagem-firmador-1kg. Detalhes: could not convert string to float: 'Creme de Massagem Firmador - 1kg'
+2024-05-14 23:54:31,973 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-de-massagem-neutro-1kg. Detalhes: could not convert string to float: 'Creme de Massagem Neutro - 1kg'
+2024-05-14 23:54:32,536 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-de-massagem-ozonizado-900g. Detalhes: could not convert string to float: 'Creme de Massagem Ozonizado - 900g'
+2024-05-14 23:54:33,216 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-esbeltea-mitocondrial-900g. Detalhes: could not convert string to float: 'Creme esbeltea Mitocondrial 900g'
+2024-05-14 23:54:33,823 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/creme-venus-1kg. Detalhes: could not convert string to float: 'CREME VENUS 900G'
+2024-05-14 23:54:34,464 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/criogel-1kg. Detalhes: could not convert string to float: 'CRIOGEL - 1kg'
+2024-05-14 23:54:35,202 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/enzima-venus-1l. Detalhes: could not convert string to float: 'ENZIMA VENUS 1L'
+2024-05-14 23:54:35,867 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/fluido-chili-lipolitico-1l. Detalhes: could not convert string to float: 'Fluido chili lipolitico 1L'
+2024-05-14 23:54:36,545 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/gel-bioestimulante-1kg. Detalhes: could not convert string to float: 'Gel Bioestimulante - 1kg'
+2024-05-14 23:54:37,341 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/gel-creme-corpore-striat-100gr. Detalhes: could not convert string to float: 'Gel Creme Corpore Striat - 100gr'
+2024-05-14 23:54:37,963 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/gel-termoativado-1kg. Detalhes: could not convert string to float: 'Gel Termoativado - 1kg'
+2024-05-14 23:54:38,555 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/kit-ozonio-premium-corporal. Detalhes: could not convert string to float: 'Kit Ozônio Premium - Corporal'
+2024-05-14 23:54:39,303 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/oleo-de-massagem. Detalhes: could not convert string to float: 'Óleo de Massagem'
+2024-05-14 23:54:39,887 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/polpa-venus-900g. Detalhes: could not convert string to float: 'Polpa Venus 1Kg'
+2024-05-14 23:54:40,445 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/sal-termico-lipolitico-500g. Detalhes: could not convert string to float: 'Sal Térmico Lipolítico (500g)'
+2024-05-14 23:54:41,215 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/splash-o3-ozonio-em-spray-200ml. Detalhes: could not convert string to float: 'Splash O3 - Ozônio em Spray - 200ml'
+2024-05-14 23:54:41,788 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/corporal/spray-higienizante-500ml. Detalhes: could not convert string to float: 'Spray Higienizante - 500ml'
+2024-05-14 23:54:42,406 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/creme-7-ativos-creme-neutro-1kg. Detalhes: could not convert string to float: 'Creme 7 ativos + Creme Neutro 1kg'
+2024-05-14 23:54:43,009 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/esfoliante-chili-drenante-1kg. Detalhes: could not convert string to float: 'Esfoliante Chili drenante 1kg'
+2024-05-14 23:54:43,738 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/agua-micelar-tropical-200ml. Detalhes: could not convert string to float: 'Água Micelar Tropical - 200ml'
+2024-05-14 23:54:44,393 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/argila-verde-1kg. Detalhes: could not convert string to float: 'Argila verde - 1kg'
+2024-05-14 23:54:44,967 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/bb-cream-bege-fps-50. Detalhes: could not convert string to float: 'BB Cream'
+2024-05-14 23:54:45,695 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/beads-de-ozonio-50ml. Detalhes: could not convert string to float: 'Beads de Ozônio - 50ml'
+2024-05-14 23:54:46,365 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/bio-collagen-infusao-revitalizante-passo-03-50ml. Detalhes: could not convert string to float: 'Bio-Collagen Infusão revitalizante passo 03 - 50ml'
+2024-05-14 23:54:46,974 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/bio-fill-up-infusao-revitalizante-passo-05-50ml. Detalhes: could not convert string to float: 'Bio-FILL UP Infusão Revitalizante Passo 05 - 50ml'
+2024-05-14 23:54:47,683 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/bio-golden-c-infusao-revitalizante-passo-04-50ml. Detalhes: could not convert string to float: 'Bio-Golden C Infusão revitalizante passo 04 - 50ml'
+2024-05-14 23:54:48,310 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/bio-hyaluronic-infusao-revitalizante-passo-02-50ml. Detalhes: could not convert string to float: 'Bio Hyaluronic Infusão revitalizante passo 02 - 50ml'
+2024-05-14 23:54:48,907 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/bio-hydration-infusao-revitalizante-passo-01-50ml. Detalhes: could not convert string to float: 'Bio-Hydration Infusão revitalizante passo 01 - 50ml'
+2024-05-14 23:54:49,648 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/booster-c100. Detalhes: could not convert string to float: 'Booster C100'
+2024-05-14 23:54:50,283 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/booster-colageno-50ml. Detalhes: could not convert string to float: 'Booster Colágeno - 50ml'
+2024-05-14 23:54:50,860 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/clay-mask-calcario-150gr. Detalhes: could not convert string to float: 'Clay Mask Calcário - 150gr'
+2024-05-14 23:54:51,580 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/clay-mask-manguezal-150gr. Detalhes: could not convert string to float: 'Clay Mask Manguezal - 150gr'
+2024-05-14 23:54:52,200 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/clay-mask-marmore-150gr. Detalhes: could not convert string to float: 'Clay Mask Mármore - 150gr'
+2024-05-14 23:54:52,836 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/clay-mask-vulcanica-150gr. Detalhes: could not convert string to float: 'Clay Mask Vulcânica - 150gr'
+2024-05-14 23:54:53,527 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/dolce-peel-10gr. Detalhes: could not convert string to float: 'Dolce peel - 10gr'
+2024-05-14 23:54:54,207 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/emoliente-de-cravos-250gr. Detalhes: could not convert string to float: 'Emoliente de Cravos - 250gr'
+2024-05-14 23:54:54,785 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/emoliente-de-cravos-500gr. Detalhes: could not convert string to float: 'Emoliente de cravos - 500gr'
+2024-05-14 23:54:55,454 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/emoliente-zero. Detalhes: could not convert string to float: 'Emoliente Zero'
+2024-05-14 23:54:56,078 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/esfoliante-facial-100gr. Detalhes: could not convert string to float: 'Esfoliante facial - 100gr'
+2024-05-14 23:54:56,720 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/esfoliante-facial-250ml. Detalhes: could not convert string to float: 'Esfoliante Facial 250ml'
+2024-05-14 23:54:57,447 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/fluido-leite-nano-fill-up-dmae-passo-5-50ml-199. Detalhes: could not convert string to float: 'Fluido Leite Nano Fill up DMAE - passo 5 50ml'
+2024-05-14 23:54:58,041 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/fluido-passo-1-ureia-50ml. Detalhes: could not convert string to float: 'Fluido passo 1 - Uréia 50ml'
+2024-05-14 23:54:58,633 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/fluido-passo-2-hialuronico-50ml. Detalhes: could not convert string to float: 'Fluido passo 2 - Hialurônico 50ml'
+2024-05-14 23:54:59,447 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/fluido-passo-3-colageno-50ml. Detalhes: could not convert string to float: 'Fluido passo 3 - Colágeno 50ml'
+2024-05-14 23:55:00,078 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/fluido-secativo-melaleuca-50ml. Detalhes: could not convert string to float: 'Fluido Secativo - Melaleuca 50ml'
+2024-05-14 23:55:00,727 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/gel-esfoliante-corporal-ozonizado-1kg. Detalhes: could not convert string to float: 'Gel Esfoliante Corporal Ozonizado - 1kg'
+2024-05-14 23:55:01,540 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/kit-3-mascaras-tropicalia. Detalhes: could not convert string to float: 'Kit 3 Máscaras Tropicalia'
+2024-05-14 23:55:02,152 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/kit-booster-fibras-elasticas. Detalhes: could not convert string to float: 'Neuroplasma Ultra calmante - 50ml'
+2024-05-14 23:55:02,749 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/kit-limpeza-de-pele-mascara-blindagem-5-produtos. Detalhes: could not convert string to float: 'Kit Limpeza de pele com mascara blindagem ( 5 produtos)'
+2024-05-14 23:55:03,457 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/locao-ozonizada-200ml. Detalhes: could not convert string to float: 'Loção Ozonizada - 200ml'
+2024-05-14 23:55:04,065 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/locao-pre-peeling-200ml. Detalhes: could not convert string to float: 'Loção Pré Peeling - 200ml'
+2024-05-14 23:55:04,691 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/locao-tonica-500ml. Detalhes: could not convert string to float: 'Loção Tônica - 500ml'
+2024-05-14 23:55:05,400 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-brownie-de-chocolate-150gr. Detalhes: could not convert string to float: 'Máscara Brownie de chocolate 150gr'
+2024-05-14 23:55:05,995 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-calmante-250gr. Detalhes: could not convert string to float: 'Máscara Calmante - 250gr'
+2024-05-14 23:55:06,606 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-calmante-500gr. Detalhes: could not convert string to float: 'Máscara Calmante - 500gr'
+2024-05-14 23:55:07,424 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-coracao-do-oceano-150gr. Detalhes: could not convert string to float: 'Máscara Coração do Oceano - 150gr'
+2024-05-14 23:55:08,014 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-de-ouro-150gr. Detalhes: could not convert string to float: 'Máscara Golden Glitter - 150gr'
+2024-05-14 23:55:08,623 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-de-porcelana-600gr. Detalhes: could not convert string to float: 'Máscara de porcelana - 600gr'
+2024-05-14 23:55:09,310 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-de-vinhoterapia-250gr. Detalhes: could not convert string to float: 'Máscara de Vinhoterapia - 250gr'
+2024-05-14 23:55:09,878 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-fancy-150gr. Detalhes: could not convert string to float: 'Máscara Fancy - 150gr'
+2024-05-14 23:55:10,452 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-finalizadora-blindagem-facial. Detalhes: could not convert string to float: 'Máscara Finalizadora - Blindagem Facial'
+2024-05-14 23:55:11,005 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-hidroplastica-zen-marine-150gr. Detalhes: could not convert string to float: 'Máscara Hidroplástica Zen Marine - 150gr'
+2024-05-14 23:55:11,717 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-majestic-150gr. Detalhes: could not convert string to float: 'Máscara Majestic - 150gr'
+2024-05-14 23:55:12,351 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-negra-150gr. Detalhes: could not convert string to float: 'Máscara Negra - 150gr'
+2024-05-14 23:55:12,938 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-tropicalia-laranja-150g. Detalhes: could not convert string to float: 'Mascara Tropicalia Laranja com Vitamina C 150g'
+2024-05-14 23:55:13,649 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-tropicalia-maracuja-com-colageno-150g. Detalhes: could not convert string to float: 'Mascara Tropicalia Maracujá com colágeno 150g'
+2024-05-14 23:55:14,251 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/mascara-tropicalia-melancia-150g. Detalhes: could not convert string to float: 'Mascara Tropicalia Melancia com Acido Hialuronico 150g'
+2024-05-14 23:55:14,904 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/masso-divine-250g. Detalhes: could not convert string to float: 'MASSO DIVINE - 250g'
+2024-05-14 23:55:15,659 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/melange-especial-50ml. Detalhes: could not convert string to float: 'Melange Especial - 50ml'
+2024-05-14 23:55:16,315 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/nano-drone-peptideo-30ml. Detalhes: could not convert string to float: 'Nano Drone Peptídeo - 30ml'
+2024-05-14 23:55:16,916 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/neuroplasma-bioeletrico-50ml. Detalhes: could not convert string to float: 'Neuroplasma Bioelétrico - 50ml'
+2024-05-14 23:55:17,686 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/neuroplasma-crio-redutor-50ml. Detalhes: could not convert string to float: 'Neuroplasma Crio-redutor - 50ml'
+2024-05-14 23:55:18,283 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/neuroplasma-nutri-complex-50ml. Detalhes: could not convert string to float: 'Neuroplasma Nutri-complex - 50ml'
+2024-05-14 23:55:18,844 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-01-fase-quente-60ml. Detalhes: could not convert string to float: 'PEELING 01 (fase quente) - 60ml'
+2024-05-14 23:55:19,551 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-02-fase-fria-60ml. Detalhes: could not convert string to float: 'PEELING 02 (fase fria) - 60ml'
+2024-05-14 23:55:20,198 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-bio-complex-50ml. Detalhes: could not convert string to float: 'Peeling Bio Complex - 50ml'
+2024-05-14 23:55:20,792 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-de-cristal-liquido-30ml. Detalhes: could not convert string to float: 'Peeling de cristal líquido - 30ml'
+2024-05-14 23:55:21,463 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-de-inverno-50ml. Detalhes: could not convert string to float: 'Peeling de Inverno - 50ml'
+2024-05-14 23:55:22,151 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-quimico-50ml. Detalhes: could not convert string to float: 'Peeling Químico - 50ml'
+2024-05-14 23:55:22,719 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/peeling-rejuvenescedor-50ml. Detalhes: could not convert string to float: 'Peeling Rejuvenescedor - 50ml'
+2024-05-14 23:55:23,416 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/pump-colageno-50ml. Detalhes: could not convert string to float: 'PUMP Colágeno 50ml'
+2024-05-14 23:55:26,140 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/pump-leite-nano-fill-up-dmae-50ml. Detalhes: could not convert string to float: 'PUMP Leite nano Fill up DMAE 50ml'
+2024-05-14 23:55:26,709 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/sabonete-de-acido-glicolico-150ml. Detalhes: could not convert string to float: 'Sabonete De Ácido Glicólico - 150ml'
+2024-05-14 23:55:27,378 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/sabonete-liquido-facial-250ml. Detalhes: could not convert string to float: 'Sabonete Líquido Facial - 250ml'
+2024-05-14 23:55:27,966 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/sabonete-liquido-facial-500ml. Detalhes: could not convert string to float: 'Sabonete líquido facial - 500ml'
+2024-05-14 23:55:28,541 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/sabonete-liquido-facial-fresh-150ml. Detalhes: could not convert string to float: 'Sabonete Líquido Facial Fresh - 150ml'
+2024-05-14 23:55:31,739 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/serum-de-ouro-50ml. Detalhes: could not convert string to float: 'Sérum de Ouro - 50ml'
+2024-05-14 23:55:34,311 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/serum-suavizante-e-cicatrizante-500gr. Detalhes: could not convert string to float: 'Sérum Suavizante e Cicatrizante - 500gr'
+2024-05-14 23:55:34,967 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/solucao-neutralizante-50ml. Detalhes: could not convert string to float: 'Solução Neutralizante - 50ml'
+2024-05-14 23:55:35,754 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/soro-dermatologico-500ml. Detalhes: could not convert string to float: 'Soro Dermatológico - 500ml'
+2024-05-14 23:55:36,299 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/facial/zen-marine-detox-150gr. Detalhes: could not convert string to float: 'Zen Marine Detox - 150gr'
+2024-05-14 23:55:36,946 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/fluido-passo-4-vitamina-c-50ml. Detalhes: could not convert string to float: 'Fluido passo 4 - Vitamina C 50ml'
+2024-05-14 23:55:37,739 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/fluido-passo-5. Detalhes: could not convert string to float: 'Fluido Passo 5'
+2024-05-14 23:55:39,183 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/kit-acidos-sem-misterios. Detalhes: could not convert string to float: 'Kit Ácidos sem mistérios'
+2024-05-14 23:55:39,854 - ERROR - Erro ao processar URL: https://www.lakma.com.br/profissional/venus-ampola-monodose-liporedutora. Detalhes: could not convert string to float: 'Venus - Ampola Monodose Liporedutora'
+2024-05-14 23:55:40,668 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bioage Ppoeta Sleeping Mask - 30g, price=90.0
+2024-05-14 23:55:41,064 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Vino-Therapy Lotion - 300ml, price=139.0
+2024-05-14 23:55:42,291 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Vino-Therapy Lotion - 120ml, price=66.0
+2024-05-14 23:55:42,747 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Vino-Therapy Creme De Massagem - 500g, price=153.0
+2024-05-14 23:55:43,183 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Vino-Therapy Cleanser - 300ml, price=146.0
+2024-05-14 23:55:43,736 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Vino-Therapy Cleanser - 120ml, price=66.0
+2024-05-14 23:55:44,115 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.SunProtect Spray Facial e Corporal FPS 50, price=90.3
+2024-05-14 23:55:44,771 - ERROR - Erro ao extrair dados da página: HTTP Error 404: Not Found
+2024-05-14 23:55:45,309 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Renovage Y-Massage Mask Máscara Firmadora 60g, price=141.0
+2024-05-14 23:55:45,643 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Renovage Y-Contour Express Serum Finalizador 30ml, price=309.0
+2024-05-14 23:55:46,113 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Renovage Sérum Y-Shape - 30ml, price=156.0
+2024-05-14 23:55:46,475 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Renovage Firm Up Sérum Concentrado Firmador Com Nano Dmae - 30g, price=153.0
+2024-05-14 23:55:46,884 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Renovage Cream Y-Shape - 30g, price=160.0
+2024-05-14 23:55:47,457 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Protocolo Renovage Com Tecnologia Bio Y-Shape , price=746.0
+2024-05-14 23:55:47,939 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Protocolo Perfect Peel + (presente) Bio-Sunprotect pó compacto fps60 translúcido, price=529.0
+2024-05-14 23:55:48,431 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=PROTOCOLO PELE DE SEDA, price=874.0
+2024-05-14 23:55:48,875 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Protocolo Peeling Herbal GANHE Curso de Especialização, price=1539.0
+2024-05-14 23:55:49,386 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Protocolo Limpeza De Pele - Bio-Clean System, price=522.0
+2024-05-14 23:55:49,828 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Protocolo Glycolic Active + (presente) Bio-Oil Control máscara esfoliante facial 45g, price=394.0
+2024-05-14 23:55:50,390 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=CRONOGRAMA PELE NOVA, price=834.0
+2024-05-14 23:55:50,775 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Protetor Solar Facial Antienvelhecimento, price=76.0
+2024-05-14 23:55:51,230 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=PERFECT PEEL MASK - 30G, price=119.0
+2024-05-14 23:55:51,580 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Perfect Peel Máscara Clareadora Íntima 75g, price=142.0
+2024-05-14 23:55:52,015 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=PERFECT PEEL FASE 3 TECNOLOGIA CLAREAMENTO INTELIGENTE - 15ML, price=126.0
+2024-05-14 23:55:52,419 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=PERFECT PEEL FASE 2 TECNOLOGIA CLAREAMENTO INTELIGENTE - 15ML, price=126.0
+2024-05-14 23:55:52,813 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Máscara Café Brasil - 120g, price=134.0
+2024-05-14 23:55:53,353 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Termospray Cafeína 24h - 250ml, price=146.0
+2024-05-14 23:55:53,854 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Termogel Cafeína 24h - 1kg, price=146.0
+2024-05-14 23:55:54,332 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo-Redux Suplemento Alimentar - 30 x 7G, price=135.0
+2024-05-14 23:55:54,744 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Serum Concentrado Redutor De Medidas Cafeína 24h - 30ml, price=69.0
+2024-05-14 23:55:55,198 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Serum Concentrado Antiestrias - 30ml, price=69.0
+2024-05-14 23:55:55,640 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Serum Concentrado Anticelulite Cafeína 24h - 30ml, price=69.0
+2024-05-14 23:55:56,213 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Redustril Roll-On Concentrado Antiestrias - 75g, price=132.0
+2024-05-14 23:55:56,750 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Máscara Corporal Oclusiva - 500g, price=139.0
+2024-05-14 23:55:57,222 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Gel Condutor Para Eletroterapia - 1kg, price=90.0
+2024-05-14 23:55:57,617 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Fluido Potencializador Firmestril - 250ml, price=181.0
+2024-05-14 23:55:58,236 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Firmax Firmador Corporal Com Dmae - 150g, price=132.0
+2024-05-14 23:55:58,669 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Cryogel Cafeína 24h - 1kg, price=146.0
+2024-05-14 23:55:59,945 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Creme Para Drenagem Linfática - 1kg, price=148.0
+2024-05-14 23:56:00,810 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Creme De Massagem Cafeína 24h - 1kg, price=169.0
+2024-05-14 23:56:02,288 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Cell Dys Cafeína 24h - 150g, price=97.0
+2024-05-14 23:56:03,235 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Lipo Redux Body Slim Mousse Efervescente Com Cafeína 24h - 250ml, price=132.0
+2024-05-14 23:56:06,545 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Kit Bio.Mask Mineral Glow, price=472.0
+2024-05-14 23:56:08,176 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Glycolic Mask - Esfoliante Químico - 100g, price=109.0
+2024-05-14 23:56:09,798 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Sunprotect Fluido Ultramate Fps 30 Antioleosidade , price=90.0
+2024-05-14 23:56:11,717 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Fluido Hidratante 3D - 60ml, price=76.0
+2024-05-14 23:56:18,024 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Fluido Antisséptico - Pré-Procedimento Estético 300ml, price=132.0
+2024-05-14 23:56:23,093 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Fluido Adstringente - Tônico Desincrustante De Alta Eficácia - 300ml, price=132.0
+2024-05-14 23:57:03,376 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=ENERGY SOLUTION 120ML, price=158.0
+2024-05-14 23:57:07,113 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=ENERGY SKIN MANTA - 2G, price=231.0
+2024-05-14 23:57:10,466 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=ENERGY CREAM - 100G, price=199.0
+2024-05-14 23:57:15,917 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Dreno Redux Cicatrix – 17g, price=118.0
+2024-05-14 23:57:17,989 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bioage Ppoeta Sérum Preenchedor - 30ml (Lançamento), price=124.0
+2024-05-14 23:57:20,825 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bioage Ppoeta Primer - 30g (Lançamento), price=95.0
+2024-05-14 23:57:23,531 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bioage Ppoeta Mousse De Limpeza - 150ml, price=66.0
+2024-05-14 23:57:26,577 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Whitening Toner - 120ml, price=66.0
+2024-05-14 23:57:30,735 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Whitening Sérum Clareador Facial - 30ml, price=167.0
+2024-05-14 23:57:33,944 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Whitening Sabonete Íntimo Clareador 100ml, price=76.0
+2024-05-14 23:57:35,848 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Whitening Creme Para Mãos - 50g, price=35.0
+2024-05-14 23:57:38,846 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Whitening Creme Clareador Íntimo - 30g, price=136.0
+2024-05-14 23:57:40,475 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Whitening CIS Gel Creme Clareador 30g, price=167.0
+2024-05-14 23:57:43,362 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Sunprotect Pó Compacto Fps60 Vitamina C, price=129.0
+2024-05-14 23:58:33,323 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Sunprotect Gel Creme Uniformizador Fps 60 Clareador Translúcido - 45g, price=90.0
+2024-05-14 23:58:35,803 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Sunprotect Gel-Creme Toque Seco Ultracalmante Fps 65 , price=90.0
+2024-05-14 23:58:38,392 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Sunprotect Base Stick , price=104.0
+2024-05-14 23:58:39,985 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Sunprotect Base Líquida Ud Alta Cobertura Fps 60, price=90.0
+2024-05-14 23:58:40,941 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Sun  Hyla Bronzer - Mousse Autobronzeador - 140ml, price=97.0
+2024-05-14 23:58:41,931 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Peeling Químico Intensivo - 60ml, price=196.0
+2024-05-14 23:58:43,099 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Peeling Ácido Mandélico - 60ml, price=180.0
+2024-05-14 23:58:44,471 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Oil Control Toner - 120ml, price=66.0
+2024-05-14 23:58:45,076 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Oil Control Night Sérum - 30ml , price=139.0
+2024-05-14 23:58:45,760 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Oil Control Máscara Esfoliante De Carvão Ativado 5 Em 1 - 45g, price=69.0
+2024-05-14 23:58:46,525 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Oil Control Cleanser - 120ml, price=66.0
+2024-05-14 23:58:46,980 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Nano C Sérum 30% - 30ml, price=167.0
+2024-05-14 23:58:48,676 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Nano C Pré-Peeling Golden C - 40g, price=131.0
+2024-05-14 23:58:49,233 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Nano C Peel Golden C - 15ml, price=95.0
+2024-05-14 23:58:51,218 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Nano C Mask Golden C - 40g, price=131.0
+2024-05-14 23:58:51,838 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Mask Mineral Glow Retinol-Like, price=118.0
+2024-05-14 23:58:52,456 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Mask Mineral Glow Peeling Gel, price=118.0
+2024-05-14 23:58:53,078 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Mask Mineral Glow Firmadora, price=118.0
+2024-05-14 23:58:53,615 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Mask Mineral Glow Detox, price=118.0
+2024-05-14 23:58:54,252 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Mask Minerais Argila Verde Em Pó 500g, price=69.0
+2024-05-14 23:58:55,067 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Mask Colágeno 150g, price=148.0
+2024-05-14 23:58:55,548 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Mask Bubble - Máscara Detox - 50g, price=199.0
+2024-05-14 23:58:57,511 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Mask Ácido Hialurônico 150g, price=159.0
+2024-05-14 23:58:58,744 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Intensive Care Suplemento Alimentar - 30 x 7g, price=135.0
+2024-05-14 23:59:01,185 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Intensive Care Serum Preenchedor De Ácido Hialurônico - 30ml, price=119.0
+2024-05-14 23:59:02,313 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Hyalu intensive suplemento alimentar em pó - 30 x 2,8g, price=146.0
+2024-05-14 23:59:02,790 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Hidrat Toner Tônico Facial Ultra-Hidratante - 120ml, price=66.0
+2024-05-14 23:59:03,254 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Hidrat Creme Hidratante Facial - 45g, price=69.0
+2024-05-14 23:59:03,808 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Hidrat Cleanser Sabonete Facial Ultra-Hidratante - 120ml, price=66.0
+2024-05-14 23:59:04,423 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio.Firmax Levanta Bumbum, price=95.0
+2024-05-14 23:59:04,906 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Filler Lip Gloss Labial - 4ml (Lançamento), price=55.0
+2024-05-14 23:59:05,507 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Filler Lip Esfoliante Labial - 12g (Lançamento), price=48.0
+2024-05-14 23:59:08,230 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Excellence Serum Lift C - 15ml, price=118.0
+2024-05-14 23:59:08,793 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Excellence C - Creme Área Dos Olhos Com Vitamina C - 15g, price=118.0
+2024-05-14 23:59:11,248 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio Essential Oil Facial - 30ml, price=98.0
+2024-05-14 23:59:11,720 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Essential Oil Body - 90ml, price=125.0
+2024-05-14 23:59:12,367 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Dreno Redux Sérum De Tratamento Intensivo 30ml, price=90.0
+2024-05-14 23:59:12,883 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Dreno Redux Gel Creme Multifuncional – 100g, price=104.0
+2024-05-14 23:59:13,468 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Dreno Redux Fluído De Tratamento Intensivo 120ml, price=97.0
+2024-05-14 23:59:14,072 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Cleanser Glycolic - 300ml, price=146.0
+2024-05-14 23:59:14,835 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Cleanser Glycolic 10% - 300ml, price=144.0
+2024-05-14 23:59:15,309 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Cleanser Demaquilante Gel Micelar - 300ml, price=146.0
+2024-05-14 23:59:15,870 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Cleanser Demaquilante Gel Micelar - 120g, price=66.0
+2024-05-14 23:59:16,495 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Clean System Trietanolamina Concentrada - 500ml, price=71.0
+2024-05-14 23:59:17,257 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Clean System Pós Extração - 60ml, price=127.0
+2024-05-14 23:59:19,492 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Clean System Loção Tônica Suavizante - 350ml, price=101.0
+2024-05-14 23:59:20,025 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Clean System Gel Esfoliante 3 Em 1 - 150g, price=127.0
+2024-05-14 23:59:20,621 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Clean System Creme Emoliente - 100g, price=87.0
+2024-05-14 23:59:21,578 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-C Toner - 120ml, price=66.0
+2024-05-14 23:59:22,927 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-C Serum Golden C - 15ml, price=131.0
+2024-05-14 23:59:23,598 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-C Radiance 20% Gel-Creme Vitamina C Pura - 30g, price=167.0
+2024-05-14 23:59:24,527 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-C Primer Uniformizador Pré-Maquiagem - 30g, price=97.0
+2024-05-14 23:59:26,524 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-C Cleanser - 120ml, price=66.0
+2024-05-14 23:59:28,678 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-C Body Creme Hidratante Corporal - 180g, price=62.0
+2024-05-14 23:59:29,962 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Toner - 300ml, price=139.0
+2024-05-14 23:59:31,168 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Toner - 120ml, price=66.0
+2024-05-14 23:59:33,470 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Sleeping Mask Trat Antiacne Noturno 45g, price=95.0
+2024-05-14 23:59:35,375 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Peeling Vegetal - 45g, price=115.0
+2024-05-14 23:59:37,614 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Cleanser - 300ml, price=146.0
+2024-05-14 23:59:38,541 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Cleanser - 120ml, price=66.0
+2024-05-14 23:59:39,536 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Acne Point Gel Secativo Antiacne 15g, price=80.0
+2024-05-14 23:59:40,873 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Acne Peel - 15ml, price=90.0
+2024-05-14 23:59:42,099 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Acne Mask - 45g, price=116.0
+2024-05-14 23:59:43,366 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bio-Acne Solution Acne Color Control - 15ml, price=94.0
+2024-05-14 23:59:44,643 - INFO - Dados inseridos no MySQL: site=www.bioageprofissional.com.br, name=Bambu Brasil Pré-Peeling - Físico E Químico - 120g, price=123.0
+2024-05-14 23:59:45,637 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/niacine-serum-niacinamida/p. Detalhes: could not convert string to float: 'Niacine+ Sérum de Niacinamida | Tulípia Cosméticos'
+2024-05-14 23:59:46,943 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/floraty-creme-emoliente-cravos/p. Detalhes: could not convert string to float: 'Floraty Creme Emoliente para Cravos | Tulípia Cosméticos'
+2024-05-14 23:59:48,324 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/marezi-nano-mascara-hidrocalmante-200g/p. Detalhes: could not convert string to float: 'Marezi Nano Máscara Hidrocalmante | Tulípia Cosméticos'
+2024-05-14 23:59:49,624 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/immortalite-serum-vitamina-c/p. Detalhes: could not convert string to float: 'Immortalité-C NANO SÉRUM DE VITAMINA C | Tulípia Cosméticos'
+2024-05-14 23:59:51,344 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/calmskin-nano-pomada-ultracalmante-30g/p. Detalhes: could not convert string to float: 'Calmskin Pomada Multirreparadora | Tulípia Cosméticos'
+2024-05-14 23:59:52,591 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/firm-flaccid-nano-fluido-remineralizante-060ml/p. Detalhes: could not convert string to float: 'Firm Flaccid NANO FLUIDO REMINERALIZANTE | Tulípia Cosméticos'
+2024-05-14 23:59:53,762 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/hidrasol-fotoprotetor-facial-fps-60-ppd-20-50g/p. Detalhes: could not convert string to float: 'Hidrasol Fotoprotetor Facial FPS 60 | Tulípia Cosméticos'
+2024-05-14 23:59:55,036 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/marezi-nano-sabonete-hidratante-110ml/p. Detalhes: could not convert string to float: 'Marezi Nano Sabonete Hidratante | Tulípia Cosméticos'
+2024-05-14 23:59:55,982 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/floraty-creme-esfoliante-200g/p. Detalhes: could not convert string to float: 'Floraty Creme Esfoliante Apricot | Tulípia Cosméticos'
+2024-05-14 23:59:57,462 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/hidrasol-fotoprotetor-facial-fps-30-ppd-10-50g/p. Detalhes: could not convert string to float: 'Hidrasol Fotoprotetor Facial FPS 30 | Tulípia Cosméticos'
+2024-05-14 23:59:58,661 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/resilience-nano-serum-dermoprotetor-50ml/p. Detalhes: could not convert string to float: 'Resilience NANO SÉRUM DERMOPROTETOR | Tulípia Cosméticos'
+2024-05-15 00:00:00,162 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/firm-flaccid-nano-fluido-remineralizante-300ml/p. Detalhes: could not convert string to float: 'Firm Flaccid NANO FLUIDO REMINERALIZANTE | Tulípia Cosméticos'
+2024-05-15 00:00:03,991 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/sweet-lips-gloss-labial/p. Detalhes: could not convert string to float: 'Sweet Lips Gloss Labial Gloss Labial | Tulípia Cosméticos'
+2024-05-15 00:00:06,082 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/floraty-amolecedor-de-cravos-liquido-500ml/p. Detalhes: could not convert string to float: 'Floraty Loção Amolecedora de Cravos | Tulípia Cosméticos'
+2024-05-15 00:00:08,837 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/sweet-lips-gloss-labial-cereja/p. Detalhes: could not convert string to float: 'Sweet Lips Gloss Labial Gloss Labial | Tulípia Cosméticos'
+2024-05-15 00:00:10,401 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/peeling-gel-30g/p. Detalhes: could not convert string to float: 'Peeling Gel Facial | Tulípia Cosméticos'
+2024-05-15 00:00:11,613 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/hialux-sabonete-clareador/p. Detalhes: could not convert string to float: 'Hialux Sabonete Clareador | Tulípia Cosméticos'
+2024-05-15 00:00:12,941 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/primavera-mask-nano-mascara-renovadora-150g/p. Detalhes: could not convert string to float: 'Primavera Mask Nano Máscara Renovadora | Tulípia Cosméticos'
+2024-05-15 00:00:14,330 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kinelyn-nano-mascara-ultrasecativa-200g/p. Detalhes: could not convert string to float: 'Kinelyn Nano Máscara Ultrassecativa | Tulípia Cosméticos'
+2024-05-15 00:00:15,968 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/citrata-nano-sabonete-equilibrante-110ml/p. Detalhes: could not convert string to float: 'Citrata Nano Sabonete Equilibrante | Tulípia Cosméticos'
+2024-05-15 00:00:17,070 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/dermacos-espuma-limpeza-rejuvenescedora/p. Detalhes: could not convert string to float: 'Dermacos Espuma de Limpeza Rejuvenescedora | Tulípia Cosméticos'
+2024-05-15 00:00:18,696 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-serum-clareador-20-30ml/p. Detalhes: could not convert string to float: 'Life C+ Nano Sérum Clareador 20% | Tulípia Cosméticos'
+2024-05-15 00:00:19,660 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/miracle-4d-nano-serum-restaurador-50ml/p. Detalhes: could not convert string to float: 'Miracle 4D NANO SÉRUM RESTAURADOR | Tulípia Cosméticos'
+2024-05-15 00:00:21,014 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/sweet-lips-esfoliante-labial-cereja/p. Detalhes: could not convert string to float: 'Sweet Lips Esfoliante Labial Sabor Cereja | Tulípia Cosméticos'
+2024-05-15 00:00:22,478 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/marezi-nano-locao-tonica-remineralizante-110ml/p. Detalhes: could not convert string to float: 'Marezi Nano Loção Tônica Remineralizante | Tulípia Cosméticos'
+2024-05-15 00:00:24,357 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/chokola-mascara-de-chocolate/p. Detalhes: could not convert string to float: 'Chokolá Máscara de Chocolate | Tulípia Cosméticos'
+2024-05-15 00:00:26,552 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/sweet-lips-esfoliante-labial-tutti-frutti/p. Detalhes: could not convert string to float: 'Sweet Lips Esfoliante Labial Esfoliante Labial | Tulípia Cosméticos'
+2024-05-15 00:00:27,933 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/age-matte-nano-serum-matificante-50ml/p. Detalhes: could not convert string to float: 'Age-Matte Nano Sérum Matificante | Tulípia Cosméticos'
+2024-05-15 00:00:29,465 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/marezi-nano-sabonete-hidratante-300ml/p. Detalhes: could not convert string to float: 'Marezi Nano Sabonete Hidratante | Tulípia Cosméticos'
+2024-05-15 00:00:31,074 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kit-antiacne-pro/p. Detalhes: could not convert string to float: 'Kit Antiacne Profissional | Tulípia Cosméticos'
+2024-05-15 00:00:32,872 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kit-seruns-premium/p. Detalhes: could not convert string to float: 'Kit Séruns Premium | Tulípia Cosméticos'
+2024-05-15 00:00:35,134 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kit-acido-hialuronico-linha-hialux/p. Detalhes: could not convert string to float: 'Kit Ácido Hialurônico com Hialux | Tulípia Cosméticos'
+2024-05-15 00:00:36,991 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kit-rejuvenescimento-intimo/p. Detalhes: could not convert string to float: 'Kit Rejuvenescimento Íntimo by Ana Júlia Graf | Tulípia Cosméticos'
+2024-05-15 00:00:39,091 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kit-dermacos/p. Detalhes: could not convert string to float: 'Combo Dermacos Duo Home Care Rejuvenescedor | Tulípia Cosméticos'
+2024-05-15 00:00:41,012 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/combo-acido-hialuronico-home-care-hialux-serum-sabonete/p. Detalhes: could not convert string to float: 'Combo Ácido Hialurônico Home Care | Tulípia Cosméticos'
+2024-05-15 00:00:43,518 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-sabonete-mousse-home-care/p. Detalhes: could not convert string to float: 'Life C+ Nano Sabonete Mousse | Tulípia Cosméticos'
+2024-05-15 00:00:48,376 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/citrogel-nano-gel-clareador-30g/p. Detalhes: could not convert string to float: 'Citrogel Nano Gel Clareador da Pele | Tulípia Cosméticos'
+2024-05-15 00:00:51,510 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/hydrogen-bruma-de-hidrogenio-molecular-50ml/p. Detalhes: could not convert string to float: 'Hydrogen Bruma de Hidrogênio Molecular | Tulípia Cosméticos'
+2024-05-15 00:00:59,997 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kinelyn-sabonete-seborregulador-110ml/p. Detalhes: could not convert string to float: 'Kinelyn Sabonete Seborregulador | Tulípia Cosméticos'
+2024-05-15 00:06:59,145 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/biowhite-nano-locao-clareadora-60ml/p. Detalhes: could not convert string to float: 'Biowhite Nano Loção Clareadora | Tulípia Cosméticos'
+2024-05-15 00:07:00,797 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/corpus-mascara-de-argila-e-colageno-flaci10-1kg/p. Detalhes: could not convert string to float: 'Corpus MÁSCARA DE ARGILA AMARELA E COLÁGENO | Tulípia Cosméticos'
+2024-05-15 00:07:01,724 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/miracle-eyes-nano-gel-area-dos-olhos-13g/p. Detalhes: could not convert string to float: 'Miracle Eyes Nano Gel Área dos Olhos | Tulípia Cosméticos'
+2024-05-15 00:07:02,965 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/black-secret-sabonete-glico-renovador-300ml/p. Detalhes: could not convert string to float: 'Black Secret Sabonete Glico-Renovador | Tulípia Cosméticos'
+2024-05-15 00:07:03,940 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/sweet-lips-fluido-microagulhamento-labial/p. Detalhes: could not convert string to float: 'Sweet Lips Fluído Ultra Concentrado Labial | Tulípia Cosméticos'
+2024-05-15 00:07:04,746 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/dermacoll-nano-serum-firmador-50ml/p. Detalhes: could not convert string to float: 'Dermacoll Nano Sérum de Colágeno | Tulípia Cosméticos'
+2024-05-15 00:07:05,575 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kinelyn-nano-locao-ultrasecativa-60ml/p. Detalhes: could not convert string to float: 'Kinelyn Nano Loção Ultrassecativa | Tulípia Cosméticos'
+2024-05-15 00:07:06,493 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/sepiwhite-gel-clareador-30g/p. Detalhes: could not convert string to float: 'Sepiwhite Gel Clareador | Tulípia Cosméticos'
+2024-05-15 00:07:07,308 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-tonico-110ml/p. Detalhes: could not convert string to float: 'Life C+ Nano Tônico | Tulípia Cosméticos'
+2024-05-15 00:07:08,479 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-mascara-iluminadora/p. Detalhes: could not convert string to float: 'Life C+ Nano Máscara Iluminadora | Tulípia Cosméticos'
+2024-05-15 00:07:09,332 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/elegance-body-nano-spray-lipotermico-5-em-1-300ml/p. Detalhes: could not convert string to float: 'Elegance Body Nano Spray Lipotérmico 5 em 1 | Tulípia Cosméticos'
+2024-05-15 00:07:10,479 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/elegance-nano-dual-peeling-esfoliante-500g/p. Detalhes: could not convert string to float: 'Elegance Nano Dual-Peeling Esfoliante | Tulípia Cosméticos'
+2024-05-15 00:07:11,349 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kinelyn-nano-gel-seborregulador-30g/p. Detalhes: could not convert string to float: 'Kinelyn Nano Gel Seborregulador | Tulípia Cosméticos'
+2024-05-15 00:07:12,270 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/cosmeticos-flocos-de-magnesio-dermico/p. Detalhes: could not convert string to float: 'OceanOX By Ana Júlia Graf Flocos de Magnésio Dérmico | Tulípia Cosméticos'
+2024-05-15 00:07:13,171 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/marezi-nano-locao-tonica-remineralizante-300ml/p. Detalhes: could not convert string to float: 'Marezi Nano Loção Tônica Remineralizante | Tulípia Cosméticos'
+2024-05-15 00:07:14,119 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/black-secret-solucao-pre-peeling-desengordurante-120ml/p. Detalhes: could not convert string to float: 'Black Secret Solução Pré-peeling Desengordurante | Tulípia Cosméticos'
+2024-05-15 00:07:15,325 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/hialux-serum-preenchedor-30ml/p. Detalhes: could not convert string to float: 'Hialux Sérum Preenchedor | Tulípia Cosméticos'
+2024-05-15 00:07:16,621 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/verao-mask-nano-mascara-energizante-150g/p. Detalhes: could not convert string to float: 'Verão Mask Nano Máscara Energizante | Tulípia Cosméticos'
+2024-05-15 00:07:18,698 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-sabonete-mousse-professional/p. Detalhes: could not convert string to float: 'Life C+ Nano Sabonete Mousse Profissional | Tulípia Cosméticos'
+2024-05-15 00:07:21,039 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/colageno-verisol-acido-hialuronico-iogurte-morango/p. Detalhes: could not convert string to float: 'Colágeno com Ácido Hialurônico e Verisol® | Tulípia Cosméticos'
+2024-05-15 00:22:57,720 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/ultimate-estetic-mascara-tensora-de-ouro-250g/p. Detalhes: could not convert string to float: 'Ultimate Estetic+ Nano Máscara Tensora de Ouro | Tulípia Cosméticos'
+2024-05-15 00:23:00,658 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-peeling-abrasivo/p. Detalhes: could not convert string to float: 'Life C+ Nano Peeling Abrasivo C | Tulípia Cosméticos'
+2024-05-15 00:23:03,225 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/dermacos-booster-rejuvenescedor-30ml/p. Detalhes: could not convert string to float: 'Dermacos Booster Rejuvenescedor | Tulípia Cosméticos'
+2024-05-15 00:23:05,547 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/inverno-mask-nano-mascara-hidronutritiva-150g/p. Detalhes: could not convert string to float: 'Inverno Mask Nano Máscara Hidronutritiva | Tulípia Cosméticos'
+2024-05-15 00:23:08,373 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/black-secret-clareador-concentrado-60ml/p. Detalhes: could not convert string to float: 'Black Secret Clareador Concentrado | Tulípia Cosméticos'
+2024-05-15 00:23:12,480 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/citrata-nano-sabonete-equilibrante-300ml/p. Detalhes: could not convert string to float: 'Citrata Nano Sabonete Equilibrante | Tulípia Cosméticos'
+2024-05-15 00:23:16,746 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/ultimate-estetic-solucao-ultraemoliente-500ml/p. Detalhes: could not convert string to float: 'Ultimate Estetic+ Solução Ultraemoliente | Tulípia Cosméticos'
+2024-05-15 00:23:42,438 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/outono-mask-nano-mascara-reequilibrante-150g/p. Detalhes: could not convert string to float: 'Outono Mask Nano Máscara Reequilibrante | Tulípia Cosméticos'
+2024-05-15 00:23:47,633 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/body-hd-creme-massagem-redutor/p. Detalhes: could not convert string to float: 'Body HD Creme de Massagem Redutor | Tulípia Cosméticos'
+2024-05-15 00:23:57,930 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/trico-geneticist-tonico-capilar-antiqueda-110ml/p. Detalhes: could not convert string to float: 'Trico Geneticist Tônico Capilar Antiqueda | Tulípia Cosméticos'
+2024-05-15 00:27:04,482 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-tonico-300ml/p. Detalhes: could not convert string to float: 'Life C+ Nano Tônico | Tulípia Cosméticos'
+2024-05-15 00:27:12,341 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/hialux-creme-preenchedor/p. Detalhes: could not convert string to float: 'Hialux Creme Preenchedor | Tulípia Cosméticos'
+2024-05-15 00:27:16,334 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/oligo-nerox-nano-serum-descontrator-50ml/p. Detalhes: could not convert string to float: 'Oligo-Nerox Nano Sérum Suavizante | Tulípia Cosméticos'
+2024-05-15 00:27:21,803 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/moovy-creme-de-massagem-neutro-1kg/p. Detalhes: could not convert string to float: 'Moovy Creme de Massagem Neutro | Tulípia Cosméticos'
+2024-05-15 00:27:26,004 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/citrata-nano-locao-tonica-adstringente-110ml/p. Detalhes: could not convert string to float: 'Citrata Nano Loção Tônica Adstringente | Tulípia Cosméticos'
+2024-05-15 00:43:50,339 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/renotrat-gel-facial-com-dmae-30g/p. Detalhes: could not convert string to float: 'Renotrat Gel Facial com DMAE | Tulípia Cosméticos'
+2024-05-15 00:51:42,016 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/life-c-nano-monodose-clareadora-4ml-5-amp/p. Detalhes: could not convert string to float: 'Life C+ Monodose Clareadora de Vitamina C | Tulípia Cosméticos'
+2024-05-15 00:53:01,556 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/citrata-nano-locao-tonica-adstringente-300ml/p. Detalhes: could not convert string to float: 'Citrata Nano Loção Tônica Adstringente | Tulípia Cosméticos'
+2024-05-15 00:54:24,121 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/body-hd-goma-esfoliante/p. Detalhes: could not convert string to float: 'Body HD Goma Esfoliante | Tulípia Cosméticos'
+2024-05-15 00:57:44,818 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/kinelyn-sabonete-seborregulador-230ml/p. Detalhes: could not convert string to float: 'Kinelyn Sabonete Seborregulador | Tulípia Cosméticos'
+2024-05-15 07:04:46,617 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/body-hd-gel-hiperemiante/p. Detalhes: could not convert string to float: 'Body HD Gel Hiperemiante | Tulípia Cosméticos'
+2024-05-15 07:04:49,614 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/peeling-corporal-120g/p. Detalhes: could not convert string to float: 'Peeling Conjugado Mandélico Conjugado Mandélico Corporal | Tulípia Cosméticos'
+2024-05-15 07:04:54,487 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/body-hd-gel-crioterapico/p. Detalhes: could not convert string to float: 'Body HD Gel Crioterápico | Tulípia Cosméticos'

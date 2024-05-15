@@ -1,10 +1,29 @@
 FROM python:3.12.3
 
+# Define o diretório de trabalho como /app
 WORKDIR /app
 
+# Copia os arquivos do diretório local para o contêiner
 COPY . .
 
-RUN pip install --no-cache-dir -r requirements.txt
+# Concede permissões de execução aos arquivos Python
+RUN chmod +x *.py models/*.py utils/*.py
 
+# Instala os requisitos
+RUN pip install --no-cache-dir -r requirements.txt && \
+    rm -rf /root/.cache
+
+# Adiciona um usuário não privilegiado
+RUN adduser --disabled-password --gecos '' appuser
+
+# Define o proprietário do diretório de trabalho como o usuário não privilegiado
+RUN chown -R appuser:appuser /app
+
+# Define permissões adequadas para o arquivo scraping.log
+RUN touch scraping.log && chown appuser:appuser scraping.log && chmod 644 scraping.log
+
+# Define o usuário não privilegiado como usuário padrão para o contêiner
+USER appuser
+
+# Comando padrão para iniciar a aplicação
 CMD ["python", "main.py"]
-
