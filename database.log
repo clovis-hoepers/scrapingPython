@@ -995,3 +995,72 @@
 2024-05-15 07:04:46,617 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/body-hd-gel-hiperemiante/p. Detalhes: could not convert string to float: 'Body HD Gel Hiperemiante | TulÃ­pia CosmÃ©ticos'
 2024-05-15 07:04:49,614 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/peeling-corporal-120g/p. Detalhes: could not convert string to float: 'Peeling Conjugado MandÃ©lico Conjugado MandÃ©lico Corporal | TulÃ­pia CosmÃ©ticos'
 2024-05-15 07:04:54,487 - ERROR - Erro ao processar URL: https://www.tulipia.com.br/body-hd-gel-crioterapico/p. Detalhes: could not convert string to float: 'Body HD Gel CrioterÃ¡pico | TulÃ­pia CosmÃ©ticos'
+2024-05-18 14:10:13,992 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:10:19,718 - INFO - Download completo: urls.txt
+2024-05-18 14:10:21,831 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:10:21,831 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:13:36,243 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:13:41,240 - INFO - Download completo: urls.txt
+2024-05-18 14:13:43,337 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:13:43,337 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:16:47,545 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:16:52,572 - INFO - Download completo: urls.txt
+2024-05-18 14:21:01,038 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:21:05,982 - INFO - Download completo: urls.txt
+2024-05-18 14:21:08,084 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:21:08,084 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:24:16,751 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:24:20,143 - INFO - Download completo: urls.txt
+2024-05-18 14:24:22,235 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:24:22,235 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:24:22,709 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:25:32,598 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:25:37,159 - INFO - Download completo: urls.txt
+2024-05-18 14:25:39,242 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:25:39,242 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:25:40,460 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:26:59,241 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:27:02,666 - INFO - Download completo: urls.txt
+2024-05-18 14:27:04,774 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:27:04,774 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:27:05,398 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:28:44,441 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:28:49,207 - INFO - Download completo: urls.txt
+2024-05-18 14:28:51,304 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:28:51,304 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:28:51,838 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:32:18,355 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:32:22,301 - INFO - Download completo: urls.txt
+2024-05-18 14:32:24,437 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:32:24,437 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:32:25,041 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:34:52,930 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:34:56,450 - INFO - Download completo: urls.txt
+2024-05-18 14:34:58,566 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:34:58,566 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:34:59,297 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:37:50,218 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:37:53,561 - INFO - Download completo: urls.txt
+2024-05-18 14:37:55,667 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:37:55,667 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:37:56,507 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:39:14,966 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:39:20,788 - INFO - Download completo: urls.txt
+2024-05-18 14:39:22,982 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:39:22,982 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:39:23,754 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:42:29,741 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:42:33,365 - INFO - Download completo: urls.txt
+2024-05-18 14:42:35,471 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:42:35,471 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:42:36,323 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:45:22,968 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:45:26,766 - INFO - Download completo: urls.txt
+2024-05-18 14:45:28,861 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:45:28,861 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:45:29,629 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
+2024-05-18 14:46:30,238 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:46:33,478 - INFO - Download completo: urls.txt
+2024-05-18 14:46:35,597 - ERROR - Erro ao criar a tabela 'products'. Detalhes: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente)
+2024-05-18 14:46:35,597 - ERROR - Falha ao criar a base de dados ou tabela. Verifique os logs para detalhes.
+2024-05-18 14:46:36,189 - ERROR - Erro ao extrair preço usando padrão application/ld+json: Expecting ',' delimiter: line 11 column 67 (char 323)
