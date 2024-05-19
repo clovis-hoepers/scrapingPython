@@ -32,8 +32,8 @@ if __name__ == "__main__":
                     if site and name and price:
                         insert_to_mysql(site, name, price, url)
                 except Exception as e:
-                    logging.error(f"Erro ao processar URL: {url}. Detalhes: {e}")
-
+                    logging.error(f"Erro ao processar URL: {
+                                  url}. Detalhes: {e}")
 
             logging.info("Executado em: %s",
                          datetime.now().strftime("%Y-%m-%d %H:%M:%S"))

@@ -1,7 +1,6 @@
 import json
 import re
 import logging
-from models.price_formatting import format_price
 import urllib.request
 from bs4 import BeautifulSoup
 
@@ -73,15 +72,15 @@ def extract_name_and_price(soup):
                     script = soup.find('script', type=pattern,
                                        string=re.compile(r'"@type": "Product"'))
                     if script and 'offers' in script.string:
-                        price = format_price(json.loads(
-                            script.string)['offers']['price'])
+                        price = json.loads(
+                            script.string)['offers']['price']
                 else:
                     tag = soup.find(pattern, class_=attribute)
                     if tag:
                         if attribute == 'content':
                             price = tag.get(attribute)
                         elif attribute == 'preco':
-                            price = format_price(tag.text.strip())
+                            price = tag.text.strip()
                         else:
                             price = tag.text.strip()
             else:

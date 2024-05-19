@@ -4,9 +4,8 @@ services:
     image: mysql:latest
     ports:
       - "3306:3306"
-    restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_RANDOM_ROOT_PASSWORD: true
       MYSQL_DATABASE: database_products
       MYSQL_USER: admin
       MYSQL_PASSWORD: admin
@@ -17,4 +16,3 @@ services:
       - "8080:8080"
     depends_on:
       - mysql
-
